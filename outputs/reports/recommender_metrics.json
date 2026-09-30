@@ -1,0 +1,12 @@
+{
+  "hybrid_svd": {
+    "rmse": 0.6901,
+    "mae": 0.5615,
+    "precision@10": 0.1185,
+    "recall@10": 0.769
+  },
+  "popularity_baseline": {
+    "precision@10": 0.1222,
+    "recall@10": 0.7922
+  }
+}

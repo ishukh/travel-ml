@@ -1,0 +1,1201 @@
+traveler_id,age,gender,occupation,traveler_type,monthly_income,budget_per_day,trip_duration_days,trips_per_year,group_size,with_children,interests,preferred_season,transport_pref,accommodation_pref
+T0001,21,F,employed,Adventure Seeker,4996.0,139.0,4.0,4.6,2,False,nature;wildlife;food;adventure;culture,spring,car,apartment
+T0002,33,M,self-employed,Family Vacationer,8561.0,218.0,8.0,2.1,4,True,photography;nature;culture;relaxation;food;shopping,summer,flight,hotel
+T0003,24,M,employed,Adventure Seeker,4457.0,164.0,6.0,3.8,2,False,nightlife;relaxation;food;nature;adventure,summer,car,hostel
+T0004,21,M,student,Cultural Explorer,4118.0,138.0,7.0,4.0,2,False,history;culture;food;shopping,autumn,car,apartment
+T0005,48,M,employed,Leisure & Relaxation,5476.0,,9.0,3.0,3,True,nightlife;nature;relaxation;food,,flight,homestay
+T0006,47,F,employed,Leisure & Relaxation,5041.0,138.0,8.0,1.5,2,False,nightlife;food;nature;relaxation,spring,train,hotel
+T0007,46,M,employed,Leisure & Relaxation,6480.0,190.0,13.0,3.3,1,False,culture;relaxation;food;photography,autumn,flight,hotel
+T0008,36,F,employed,Family Vacationer,3848.0,346.0,8.0,1.0,4,True,food;nature,spring,car,resort
+T0009,39,M,employed,Cultural Explorer,5192.0,160.0,13.0,3.2,3,True,photography;culture;adventure;nightlife;food,summer,car,hotel
+T0010,26,M,employed,Budget Backpacker,2514.0,48.0,6.0,2.4,1,False,nightlife;history;nature;culture,spring,train,hostel
+T0011,28,F,unemployed,Budget Backpacker,2463.0,52.0,10.0,7.9,3,False,food;nightlife;photography,winter,bus,hostel
+T0012,36,F,employed,Adventure Seeker,4813.0,97.0,4.0,3.1,2,False,nightlife;adventure;photography;food;nature,winter,car,resort
+T0013,37,M,employed,Leisure & Relaxation,5682.0,190.0,17.0,4.4,1,False,shopping;nightlife;adventure,spring,car,hotel
+T0014,18,M,student,Cultural Explorer,4241.0,119.0,8.0,0.9,3,False,culture;history;photography,spring,train,homestay
+T0015,55,M,employed,Cultural Explorer,4670.0,145.0,4.0,2.7,2,False,culture;relaxation;history;food,autumn,flight,resort
+T0016,23,F,student,Adventure Seeker,4521.0,154.0,4.0,2.2,3,False,adventure;photography;wildlife;shopping;nightlife,spring,car,apartment
+T0017,36,F,self-employed,Family Vacationer,6770.0,215.0,6.0,0.5,4,True,food;nature;relaxation;history,summer,train,hotel
+T0018,38,F,employed,Adventure Seeker,6316.0,130.0,6.0,2.7,2,False,adventure;nightlife;wildlife;nature;culture,spring,flight,resort
+T0019,29,F,employed,Family Vacationer,5247.0,,5.0,1.3,3,True,relaxation;nature;wildlife;food,spring,train,resort
+T0020,18,M,employed,Adventure Seeker,5804.0,148.0,6.0,3.8,2,False,adventure;photography;nature,winter,car,homestay
+T0021,23,F,student,Budget Backpacker,2701.0,63.0,21.0,4.6,2,False,nightlife;adventure,winter,flight,hostel
+T0022,18,M,student,Budget Backpacker,1329.0,25.0,,4.1,2,False,adventure;photography;nightlife;culture,autumn,bus,hostel
+T0023,45,M,unemployed,Leisure & Relaxation,7713.0,217.0,3.0,1.2,2,False,shopping;culture;photography,summer,car,apartment
+T0024,27,F,employed,Adventure Seeker,6050.0,109.0,5.0,4.5,1,False,nature;adventure;photography;nightlife;culture;food,autumn,flight,apartment
+T0025,41,F,unemployed,Cultural Explorer,6063.0,138.0,11.0,3.5,1,False,food;nature;culture;shopping,autumn,,homestay
+T0026,37,M,employed,Family Vacationer,7105.0,177.0,6.0,3.3,3,True,relaxation;food;wildlife;nature;culture,summer,flight,hotel
+T0027,49,F,employed,Leisure & Relaxation,6489.0,210.0,12.0,2.9,2,False,nature;food;relaxation;adventure,summer,,resort
+T0028,26,F ,employed,Budget Backpacker,1741.0,62.0,9.0,5.9,1,False,food;nightlife,summer,bus,hostel
+T0029,37,F ,unemployed,Leisure & Relaxation,7477.0,171.0,13.0,2.1,1,False,relaxation;nightlife;food;photography;adventure,spring,flight,hotel
+T0030,34,F,employed,Adventure Seeker,1492.0,134.0,5.0,3.3,1,False,culture;nature;adventure;wildlife,winter,car,apartment
+T0031,34,M,self-employed,Cultural Explorer,4075.0,162.0,8.0,2.1,1,False,culture;adventure;photography;food;history,spring,train,apartment
+T0032,45,F,employed,Leisure & Relaxation,4072.0,72.0,,2.2,2,False,culture;relaxation;nightlife,autumn,car,homestay
+T0033,29,M,self-employed,Adventure Seeker,6748.0,125.0,5.0,4.5,1,False,photography;food;shopping;adventure,winter,train,resort
+T0034,25,F,employed,Budget Backpacker,2514.0,34.0,14.0,3.4,3,True,relaxation;adventure;culture,spring,flight,hostel
+T0035,20,FEMALE ,student,Budget Backpacker,2305.0,25.0,20.0,10.1,3,False,nightlife;food;culture;shopping,summer,bus,hostel
+T0036,29,M,unemployed,Leisure & Relaxation,6799.0,208.0,4.0,2.7,2,False,relaxation;food;nature;culture,spring,flight,hotel
+T0037,27,M,unemployed,Budget Backpacker,2063.0,54.0,3.0,1.8,1,False,nature;nightlife;culture;adventure,summer,bus,hotel
+T0038,40,M,self-employed,Family Vacationer,7431.0,263.0,6.0,1.5,4,True,relaxation;adventure;wildlife;nature,summer,car,homestay
+T0039,32,M,employed,Family Vacationer,2138.0,188.0,5.0,1.8,4,True,relaxation;culture;food;nature;adventure,summer,flight,resort
+T0040,26,F,employed,Adventure Seeker,2664.0,137.0,8.0,0.8,2,False,nightlife;adventure;photography,summer,flight,homestay
+T0041,31,M,unemployed,Adventure Seeker,4226.0,83.0,2.0,4.7,3,True,nature;wildlife;adventure;food;photography,autumn,flight,resort
+T0042,21,F,employed,Adventure Seeker,6683.0,155.0,8.0,4.3,2,False,adventure;wildlife;nature;photography;nightlife,summer,flight,homestay
+T0043,28,F,employed,Adventure Seeker,17662.288267989592,,6.0,3.6,3,True,nature;adventure;nightlife;wildlife,spring,,homestay
+T0044,34,M,employed,Adventure Seeker,5939.0,153.0,9.0,4.8,1,False,photography;food;nature;adventure,spring,car,hostel
+T0045,24,M,employed,Budget Backpacker,1874.0,77.0,6.0,0.8,1,False,shopping;food,winter,flight,homestay
+T0046,30,F,employed,Adventure Seeker,6455.0,129.0,9.0,5.7,1,False,photography;culture;nightlife;adventure,summer,car,homestay
+T0047,47,M,employed,Cultural Explorer,5247.0,150.0,9.0,3.5,2,False,photography;culture,spring,car,resort
+T0048,37,M,employed,Leisure & Relaxation,7370.0,193.0,6.0,3.2,2,False,relaxation;culture;food;nature,summer,train,apartment
+T0049,21,F,student,Adventure Seeker,2496.0,52.0,3.0,2.5,3,False,adventure;photography;nightlife,spring,flight,hostel
+T0050,24,M,self-employed,Budget Backpacker,2227.0,52.0,6.0,5.1,1,False,adventure;food;nature,spring,flight,hotel
+T0051,41,F,employed,Family Vacationer,9174.0,171.0,7.0,3.3,3,True,nature;culture;photography;relaxation,winter,car,apartment
+T0052,26,M,employed,Cultural Explorer,4713.0,167.0,12.0,3.3,3,True,culture;photography;history;food,spring,car,hotel
+T0053,57,M,employed,Leisure & Relaxation,6166.0,186.0,6.0,2.4,2,False,photography;nature;culture;nightlife,spring,flight,hotel
+T0054,29,F,employed,Adventure Seeker,5182.0,90.0,7.0,4.1,3,False,adventure;nightlife,spring,flight,hostel
+T0055,34,F,employed,Cultural Explorer,4481.0,146.0,9.0,3.9,3,False,photography;food;shopping;culture,autumn,train,hotel
+T0056,25,M,employed,Budget Backpacker,1938.0,47.0,4.0,2.9,3,True,adventure;culture;nature,,car,hostel
+T0057,18,M,student,Budget Backpacker,1630.0,73.0,13.0,4.0,2,False,food;shopping;nightlife;photography,autumn,bus,hostel
+T0058,50,F,employed,Leisure & Relaxation,6788.0,137.0,10.0,1.3,2,False,relaxation;nightlife;food;shopping,,flight,hotel
+T0059,52,M,self-employed,Cultural Explorer,5330.0,166.0,12.0,2.9,2,False,culture;food;photography;nature,autumn,flight,resort
+T0060,58,F,employed,Leisure & Relaxation,7375.0,162.0,5.0,1.0,2,False,nightlife;relaxation;photography;nature;adventure,summer,bus,resort
+T0061,44,F,employed,Cultural Explorer,6553.0,122.0,12.0,4.0,2,False,history;nature;photography;culture;adventure,spring,flight,hotel
+T0062,48,F,employed,Leisure & Relaxation,6540.0,260.0,9.0,2.3,2,False,shopping;relaxation,summer,flight,resort
+T0063,44, male,employed,Leisure & Relaxation,6415.0,90.0,7.0,2.5,3,False,culture;food;shopping;nature;photography,spring,car,resort
+T0064,38,M,unemployed,Family Vacationer,6587.0,182.0,6.0,0.6,3,False,relaxation;wildlife;adventure,summer,flight,apartment
+T0065,31,M,self-employed,Family Vacationer,6117.0,221.0,4.0,2.5,4,True,adventure;culture;wildlife,spring,car,hotel
+T0066,53,F,unemployed,Cultural Explorer,7571.0,107.0,5.0,4.8,3,True,culture;food;nature,winter,train,hotel
+T0067,60,M,employed,Cultural Explorer,6821.0,102.0,3.0,0.5,1,False,history;food;photography,spring,flight,hotel
+T0068,24,F,self-employed,Adventure Seeker,4882.0,143.0,7.0,2.5,1,False,adventure;wildlife;nightlife;nature,winter,flight,homestay
+T0069,19,M,student,Cultural Explorer,4273.0,161.0,6.0,2.2,3,False,food;culture;history;nature;shopping,summer,train,apartment
+T0070,25,M,employed,Budget Backpacker,2655.0,61.0,9.0,5.0,3,False,nightlife;nature;adventure,spring,flight,hostel
+T0071,38,F,employed,Cultural Explorer,5761.0,156.0,7.0,2.5,3,False,nature;photography,winter,car,hotel
+T0072,34,F,employed,Leisure & Relaxation,5991.0,169.0,2.0,1.5,3,True,nature;culture;shopping;nightlife;photography,spring,flight,hotel
+T0073,36,M,employed,Leisure & Relaxation,5098.0,193.0,4.0,2.4,2,False,nature;culture;photography;shopping;history,spring,car,apartment
+T0074,36,F ,employed,Family Vacationer,5059.0,315.0,8.0,1.2,3,True,wildlife;adventure;culture;relaxation;food,spring,,apartment
+T0075,35,M,unemployed,Family Vacationer,8099.0,144.0,10.0,2.8,3,True,wildlife;photography;culture;relaxation;nature,spring,flight,homestay
+T0076,50,M,employed,Cultural Explorer,1624.0,194.0,5.0,3.4,1,False,photography;shopping;adventure,spring,train,hostel
+T0077,22,M,employed,Budget Backpacker,2468.0,46.0,15.0,5.5,3,True,nightlife;culture;relaxation;shopping;photography,summer,bus,hostel
+T0078,47,M,employed,Cultural Explorer,7247.0,199.0,9.0,1.9,2,False,culture;history;photography;food;nature,autumn,flight,hostel
+T0079,34,F,employed,Adventure Seeker,3741.0,,11.0,5.3,3,False,nature;adventure;wildlife;photography,winter,car,apartment
+T0080,44,M,employed,Leisure & Relaxation,9212.0,201.0,12.0,2.5,1,False,nightlife;food;relaxation,spring,flight,hotel
+T0081,26,M,employed,Adventure Seeker,4033.0,156.0,7.0,3.6,2,False,nightlife;adventure;culture;nature,summer,flight,hostel
+T0082,37,F,self-employed,Family Vacationer,5419.0,,8.0,0.9,3,True,food;nature;culture,summer,car,resort
+T0083,29,M,employed,Budget Backpacker,2473.0,30.0,13.0,3.6,2,False,nightlife;shopping;photography;relaxation;nature,winter,bus,hostel
+T0084,23,F,student,Family Vacationer,7021.0,300.0,5.0,2.4,5,True,photography;wildlife,autumn,car,apartment
+T0085,47,M,employed,Family Vacationer,6564.0,122.0,6.0,1.3,4,True,wildlife;relaxation;culture;shopping,summer,train,resort
+T0086,29,M,employed,Cultural Explorer,3260.0,176.0,3.0,3.0,1,False,history;food;culture;adventure,autumn,bus,hotel
+T0087,36,M,employed,Cultural Explorer,6120.0,,5.0,2.5,1,False,history;shopping;photography,autumn,flight,resort
+T0088,53,M,self-employed,Cultural Explorer,4459.0,139.0,12.0,3.6,3,True,photography;history;culture;food,spring,car,homestay
+T0089,18,F,student,Budget Backpacker,2112.0,73.0,13.0,7.3,2,False,culture;adventure,autumn,bus,homestay
+T0090,39,M,self-employed,Cultural Explorer,5404.0,150.0,7.0,1.2,1,False,history;culture;nature;nightlife;relaxation,autumn,car,resort
+T0091,41,male,employed,Family Vacationer,6026.0,238.0,7.0,3.7,4,True,relaxation;nature;photography,summer,car,hotel
+T0092,40,M,employed,Cultural Explorer,4427.0,142.0,3.0,4.2,2,False,history;adventure;culture;nightlife,autumn,train,hotel
+T0093,23,F,employed,Budget Backpacker,,47.0,6.0,5.8,2,False,culture;adventure;photography;nightlife,spring,flight,hostel
+T0094,29,F,employed,Budget Backpacker,2063.0,25.0,15.0,4.8,2,False,history;photography;food,summer,bus,hostel
+T0095,24,F,employed,Adventure Seeker,6655.0,143.0,6.0,3.4,1,False,nature;nightlife;food;adventure,winter,flight,apartment
+T0096,28,F,employed,Adventure Seeker,3830.0,113.0,5.0,3.9,1,False,adventure;nightlife;photography;nature,summer,car,homestay
+T0097,33,M,employed,Leisure & Relaxation,5973.0,133.0,9.0,1.3,2,False,nightlife;relaxation;food;shopping;wildlife,autumn,flight,hotel
+T0098,40,M,employed,Family Vacationer,4251.0,205.0,2.0,1.0,5,True,nature;photography;culture;adventure;relaxation,autumn,flight,resort
+T0099,36,F,employed,Cultural Explorer,4450.0,136.0,8.0,0.7,2,False,nature;history;photography;culture,spring,train,hotel
+T0100,39,F,unemployed,Leisure & Relaxation,7193.0,215.0,13.0,3.1,2,False,nature;nightlife;photography,winter,train,hotel
+T0101,19,M,student,Budget Backpacker,2220.0,77.0,7.0,3.8,2,False,adventure;shopping;food;culture,spring,train,hostel
+T0102,44,M,employed,Cultural Explorer,4693.0,126.0,7.0,4.3,2,False,shopping;food;culture;photography,winter,train,hotel
+T0103,40,F,employed,Leisure & Relaxation,6552.0,132.0,4.0,3.2,2,False,nature;food;culture;relaxation;adventure;shopping,summer,car,hotel
+T0104,18,M,student,Budget Backpacker,2265.0,51.0,9.0,1.9,1,False,adventure;relaxation;photography;culture,autumn,bus,hotel
+T0105,44,F,unemployed,Leisure & Relaxation,6591.0,205.0,2.0,3.7,1,False,nature;relaxation,spring,car,resort
+T0106,26,male,employed,Budget Backpacker,900.0,40.0,16.0,6.5,1,False,food;photography,spring,bus,hotel
+T0107,29,F,employed,Family Vacationer,4961.0,91.0,6.0,0.5,4,False,nature;adventure;wildlife,summer,car,hotel
+T0108,40,M,employed,Cultural Explorer,3938.0,156.0,6.0,2.7,2,False,history;culture;nature;food,autumn,train,hotel
+T0109,28,M,employed,Family Vacationer,7521.0,209.0,6.0,1.8,5,True,relaxation;adventure;nature;nightlife,summer,flight,hotel
+T0110,39,F,self-employed,Family Vacationer,8367.0,,11.0,1.4,4,True,nightlife;culture;nature,winter,car,apartment
+T0111,31,F,unemployed,Adventure Seeker,2826.0,146.0,6.0,2.7,2,False,photography;nature;adventure;wildlife;nightlife,summer,train,hostel
+T0112,21,M,student,Budget Backpacker,2936.0,66.0,10.0,7.0,1,False,culture;food;nightlife,winter,train,hotel
+T0113,30,M,employed,Adventure Seeker,4558.0,240.0,7.0,4.2,3,True,nature;nightlife;photography;adventure,summer,car,homestay
+T0114,42,M,employed,Leisure & Relaxation,7808.0,117.0,3.0,2.2,2,False,food;nature;relaxation;culture,spring,flight,hotel
+T0115,51,F,employed,Leisure & Relaxation,6518.0,208.0,9.0,3.3,2,False,shopping;nature;photography;culture,winter,car,resort
+T0116,20,M,self-employed,Budget Backpacker,2515.0,58.0,14.0,6.0,1,False,culture;food;shopping;photography;nature,summer,train,hostel
+T0117,43,F,employed,Leisure & Relaxation,6619.0,184.0,16.0,2.1,2,False,shopping;food;relaxation;photography,autumn,flight,apartment
+T0118,65,M,employed,Cultural Explorer,7191.0,154.0,8.0,3.9,3,False,photography;culture;food,autumn,car,homestay
+T0119,34,M,employed,Leisure & Relaxation,7987.0,103.0,7.0,1.9,3,False,nightlife;nature;food,winter,flight,hotel
+T0120,31,M,employed,Adventure Seeker,5254.0,105.0,3.0,3.5,2,False,adventure;culture;nature;food,winter,flight,hostel
+T0121,26,F,employed,Adventure Seeker,4263.0,143.0,7.0,4.8,1,False,photography;shopping;adventure;food,spring,bus,hostel
+T0122,38,F,employed,Adventure Seeker,3659.0,88.0,6.0,2.6,2,False,wildlife;adventure;nature;food,autumn,car,hostel
+T0123,20,F,student,Adventure Seeker,6033.0,108.0,5.0,5.0,3,True,nature;adventure;culture,spring,flight,hotel
+T0124,34,M,self-employed,Adventure Seeker,3257.0,99.0,7.0,3.8,1,False,photography;adventure;culture;nature;food,spring,flight,resort
+T0125,19,M,student,Budget Backpacker,2372.0,83.0,9.0,1.0,1,False,food;relaxation;adventure;nightlife;photography,winter,train,hostel
+T0126,30,M,self-employed,Adventure Seeker,5909.0,230.0,4.0,2.9,3,False,adventure;wildlife;nature;nightlife,spring,flight,homestay
+T0127,23,F,student,Budget Backpacker,2688.0,60.0,11.0,5.8,2,False,nature;food;culture;adventure;photography;nightlife,summer,train,apartment
+T0128,18,F ,student,Budget Backpacker,2068.0,68.0,17.0,6.7,3,True,nightlife;food;adventure;photography;culture,summer,bus,homestay
+T0129,42,F,self-employed,Family Vacationer,6698.0,216.0,9.0,3.1,3,True,photography;nature;adventure;food;relaxation;culture,winter,car,resort
+T0130,42,F,unemployed,Leisure & Relaxation,8814.0,182.0,9.0,2.2,2,False,relaxation;nature;photography;nightlife;food,summer,bus,resort
+T0131,29,F,employed,Adventure Seeker,3226.0,161.0,5.0,4.7,3,True,shopping;nature;adventure;relaxation,autumn,car,hotel
+T0132,53,F,self-employed,Cultural Explorer,3506.0,128.0,10.0,0.5,3,False,nature;food,spring,train,hotel
+T0133,24,F,employed,Adventure Seeker,4133.0,144.0,6.0,2.4,3,True,food;adventure;photography,autumn,car,homestay
+T0134,45,F,employed,Cultural Explorer,6929.0,179.0,6.0,2.5,3,True,photography;nature;shopping;food;culture,spring,train,apartment
+T0135,26,M,employed,Cultural Explorer,3791.0,151.0,7.0,2.5,3,False,photography;history;shopping;food,summer,train,hostel
+T0136,22,F,student,Adventure Seeker,4348.0,170.0,9.0,3.5,3,True,adventure;nature;wildlife;photography;nightlife,spring,flight,hotel
+T0137,42,F,employed,Cultural Explorer,7392.0,139.0,6.0,5.0,2,False,photography;adventure;nightlife;history,summer,flight,homestay
+T0138,41,F,employed,Leisure & Relaxation,9072.0,265.0,11.0,2.4,2,False,nature;food;nightlife;shopping,winter,car,resort
+T0139,19,M,student,Budget Backpacker,800.0,50.0,16.0,4.9,2,False,adventure;nightlife;culture;food,autumn,flight,hostel
+T0140,41,F,employed,Cultural Explorer,4950.0,163.0,8.0,4.6,3,False,photography;nightlife;food;culture;nature;adventure,autumn,car,homestay
+T0141,32,F,employed,Family Vacationer,4580.0,196.0,8.0,2.2,3,True,wildlife;relaxation;history;photography;food,autumn,flight,apartment
+T0142,56,F,employed,Leisure & Relaxation,7354.0,176.0,10.0,3.7,3,True,shopping;wildlife;culture,autumn,flight,hotel
+T0143,40,F,employed,Leisure & Relaxation,3204.0,255.0,7.0,1.8,3,False,food;relaxation;nature;culture;shopping;photography,autumn,train,homestay
+T0144,56,F,employed,Leisure & Relaxation,6368.0,,6.0,1.5,2,False,wildlife;food;relaxation;photography;culture,spring,flight,apartment
+T0145,22,F,student,Budget Backpacker,1655.0,40.0,8.0,4.3,2,False,nightlife;adventure;food,autumn,,hostel
+T0146,44,F,employed,Cultural Explorer,7809.0,,10.0,0.9,2,False,culture;history;food;nature,spring,flight,hotel
+T0147,18,F,student,Budget Backpacker,989.0,69.0,14.0,5.3,1,False,wildlife;adventure;food;photography,winter,train,apartment
+T0148,18,M,self-employed,Cultural Explorer,4938.0,145.0,8.0,3.1,3,True,culture;shopping;food;nature,summer,flight,homestay
+T0149,42,F,employed,Leisure & Relaxation,9211.0,159.0,9.0,2.1,1,False,shopping;photography;relaxation,spring,car,resort
+T0150,18,F,employed,Budget Backpacker,2599.0,39.0,14.0,4.2,2,False,culture;nightlife,winter,car,hostel
+T0151,44,M,unemployed,Family Vacationer,5605.0,165.0,3.0,3.2,5,True,nature;wildlife;relaxation;culture;adventure,autumn,car,apartment
+T0152,48,F,employed,Family Vacationer,,201.0,7.0,1.3,4,True,nature;history;wildlife;relaxation,summer,flight,apartment
+T0153,22,M,student,Budget Backpacker,2466.0,40.0,8.0,5.2,2,False,food;adventure;culture;nightlife;nature;relaxation,,train,hostel
+T0154,52,M,employed,Leisure & Relaxation,4250.0,175.0,15.0,4.4,1,False,photography;culture,winter,flight,hotel
+T0155,42,F,employed,Leisure & Relaxation,7152.0,229.0,11.0,3.2,2,False,relaxation;food;shopping,autumn,flight,resort
+T0156,57, male,self-employed,Leisure & Relaxation,7329.0,165.0,6.0,1.0,2,False,relaxation;nature;food;shopping;photography,summer,flight,resort
+T0157,24,M,unemployed,Family Vacationer,6166.0,220.0,8.0,2.5,3,True,wildlife;culture;history;shopping;nature,summer,car,resort
+T0158,24,F,employed,Adventure Seeker,3294.0,168.0,5.0,1.8,2,False,food;nature;adventure;photography;wildlife,spring,car,homestay
+T0159,22,M,student,Family Vacationer,,246.0,6.0,2.0,5,True,history;wildlife;food,spring,flight,apartment
+T0160,21,M,employed,Budget Backpacker,1498.0,28.0,19.0,4.2,1,False,adventure;nightlife;food,autumn,flight,homestay
+T0161,51,F,employed,Leisure & Relaxation,8541.0,84.0,6.0,3.0,2,False,food;history;relaxation;nature,summer,flight,resort
+T0162,22,F,employed,Cultural Explorer,6780.0,149.0,6.0,3.1,3,True,history;photography;food;shopping,winter,train,resort
+T0163,42,M,employed,Leisure & Relaxation,6680.0,251.0,10.0,3.9,3,False,food;history;nature;nightlife;culture,summer,flight,resort
+T0164,35, male,self-employed,Adventure Seeker,5544.0,71.0,8.0,3.2,2,False,adventure;nature;relaxation;nightlife;food,winter,car,resort
+T0165,32,M,unemployed,Cultural Explorer,2048.0,144.0,8.0,3.9,2,False,photography;history;shopping,summer,train,homestay
+T0166,26,F,employed,Budget Backpacker,2586.0,74.0,11.0,3.2,1,False,culture;adventure;food;nightlife,winter,bus,hostel
+T0167,37,M,unemployed,Cultural Explorer,4663.0,139.0,12.0,3.2,2,False,culture;history;food;photography;adventure;shopping,autumn,car,apartment
+T0168,56,M,employed,Leisure & Relaxation,5524.0,159.0,6.0,2.7,1,False,photography;nature;history,spring,car,hotel
+T0169,33,F,employed,Adventure Seeker,3541.0,210.0,7.0,2.3,3,False,wildlife;culture;adventure,winter,train,hotel
+T0170,28,F,employed,Family Vacationer,4672.0,214.0,8.0,1.3,5,True,relaxation;nature;shopping;adventure,summer,train,hotel
+T0171,30,M,unemployed,Cultural Explorer,,132.0,5.0,4.5,2,False,history;relaxation;culture;food;adventure,spring,train,hotel
+T0172,25,F,employed,Budget Backpacker,2120.0,61.0,11.0,3.8,2,False,adventure;nature;food,summer,car,hostel
+T0173,31,M,employed,Cultural Explorer,5581.0,187.0,10.0,4.2,1,False,nature;photography;nightlife;culture,autumn,train,apartment
+T0174,23,F,student,Cultural Explorer,3642.0,125.0,7.0,1.4,3,True,culture;history;photography,spring,bus,homestay
+T0175,34,M,self-employed,Adventure Seeker,4061.0,155.0,5.0,4.1,2,False,adventure;nature;nightlife;food,winter,flight,homestay
+T0176,46,F,employed,Family Vacationer,10966.0,108.0,8.0,1.3,4,False,food;photography;relaxation,summer,car,resort
+T0177,33,M,unemployed,Leisure & Relaxation,7252.0,221.0,6.0,3.6,3,False,nature;adventure;nightlife,summer,car,hotel
+T0178,52,F,self-employed,Leisure & Relaxation,7012.0,163.0,10.0,1.9,1,False,nature;relaxation;history;photography;culture;food,summer,car,hotel
+T0179,22,F,student,Budget Backpacker,1801.0,44.0,10.0,8.5,3,True,nightlife;food;adventure;relaxation;shopping,summer,,hotel
+T0180,33,M,employed,Family Vacationer,7477.0,228.0,11.0,2.6,3,True,wildlife;relaxation;culture;nature;photography,summer,car,resort
+T0181,46,M,self-employed,Cultural Explorer,5502.0,139.0,8.0,3.9,2,False,nature;photography;history;culture;food,spring,flight,hotel
+T0182,36,F,employed,Family Vacationer,6051.0,238.0,10.0,2.4,3,True,relaxation;nature;culture,spring,car,hotel
+T0183,43,F,employed,Family Vacationer,5360.0,149.0,7.0,1.8,3,False,food;culture,summer,car,hotel
+T0184,22,FEMALE ,employed,Budget Backpacker,2277.0,55.0,9.0,6.3,1,False,photography;history;adventure;nightlife,winter,flight,hostel
+T0185,37,male,employed,Cultural Explorer,4589.0,122.0,5.0,3.7,1,False,nightlife;food;history;photography;culture,autumn,car,apartment
+T0186,25,M,self-employed,Cultural Explorer,5864.0,149.0,2.0,0.6,3,False,history;food;photography;culture,autumn,train,homestay
+T0187,19,F,employed,Budget Backpacker,3900.0,31.0,19.0,4.3,3,False,nightlife;adventure;nature;food,autumn,bus,hostel
+T0188,38,F,employed,Family Vacationer,5913.0,173.0,,0.5,3,True,relaxation;history;food;culture;nature,autumn,flight,hotel
+T0189,30,F,employed,Leisure & Relaxation,,244.0,12.0,1.0,3,False,nature;shopping;relaxation;photography,summer,flight,hotel
+T0190,38,F,employed,Cultural Explorer,4637.0,188.0,10.0,3.3,3,False,culture;food;shopping;photography,,car,hotel
+T0191,31,M,self-employed,Adventure Seeker,4153.0,198.0,6.0,4.0,1,False,adventure;wildlife;photography;nightlife;relaxation,winter,flight,hotel
+T0192,38,M,unemployed,Family Vacationer,,154.0,10.0,2.1,4,True,relaxation;wildlife;nature,summer,car,resort
+T0193,47,F,employed,Cultural Explorer,5288.0,145.0,9.0,2.7,2,False,culture;photography;relaxation,autumn,flight,hotel
+T0194,26,M,self-employed,Budget Backpacker,1052.0,,8.0,6.4,2,False,food;culture;shopping;nature,summer,,hostel
+T0195,43,M,employed,Family Vacationer,7464.0,217.0,7.0,2.2,3,False,nature;culture;relaxation,spring,car,apartment
+T0196,40,F,self-employed,Cultural Explorer,4276.0,166.0,7.0,6.0,3,False,food;nature;culture;history,winter,flight,hotel
+T0197,26,M,employed,Family Vacationer,8688.0,171.0,6.0,0.5,4,True,relaxation;adventure;culture;nature;history,autumn,flight,hotel
+T0198,40,F,self-employed,Adventure Seeker,4935.0,182.0,5.0,3.3,2,False,wildlife;food;shopping;photography,summer,car,apartment
+T0199,41,M,employed,Leisure & Relaxation,,244.0,10.0,3.4,3,True,food;history;relaxation;culture;nature,winter,flight,resort
+T0200,24,M,employed,Budget Backpacker,2037.0,57.0,14.0,6.1,1,False,photography;food;adventure;culture;relaxation,winter,bus,homestay
+T0201,33,F,employed,Cultural Explorer,,197.0,10.0,2.9,2,False,culture;history,winter,train,homestay
+T0202,30,M,employed,Family Vacationer,4017.0,226.0,7.0,1.7,3,True,relaxation;history;nature;food;adventure,summer,car,resort
+T0203,42,F,employed,Cultural Explorer,5986.0,146.0,12.0,3.3,3,False,food;culture;history;photography;shopping,autumn,train,apartment
+T0204,23,M,student,Adventure Seeker,3494.0,238.0,5.0,1.5,1,False,food;nightlife;adventure;shopping;wildlife,winter,car,homestay
+T0205,26,M,self-employed,Adventure Seeker,2592.0,151.0,7.0,3.4,1,False,adventure;wildlife;food;nightlife;nature,summer,,hostel
+T0206,19,M,student,Budget Backpacker,1295.0,27.0,7.0,7.7,1,False,photography;food;adventure;nightlife;shopping;nature,autumn,bus,resort
+T0207,33,F,employed,Adventure Seeker,4495.0,174.0,2.0,2.5,2,False,adventure;wildlife;nightlife;nature,winter,car,apartment
+T0208,22,M,employed,Budget Backpacker,2193.0,52.0,10.0,4.5,3,False,nightlife;food;culture;shopping;photography,summer,train,hostel
+T0209,37,M,employed,Family Vacationer,5966.0,293.0,7.0,0.5,4,True,nature;adventure;culture;nightlife,spring,car,hotel
+T0210,18,F,employed,Budget Backpacker,1081.0,37.0,20.0,1.6,1,False,photography;adventure;food,summer,bus,homestay
+T0211,18,M,student,Budget Backpacker,990.0,35.0,13.0,4.0,1,False,adventure;culture;nature;nightlife;food,winter,train,hostel
+T0212,18,F ,student,Cultural Explorer,2900.0,128.0,9.0,3.8,1,False,culture;adventure;food;nightlife;history,autumn,car,hotel
+T0213,24,M,employed,Cultural Explorer,1400.0,164.0,9.0,2.6,1,False,nature;culture;food,spring,car,hotel
+T0214,36,F,unemployed,Leisure & Relaxation,,189.0,13.0,3.0,3,False,nature;relaxation;food;nightlife,autumn,car,resort
+T0215,18,M,student,Adventure Seeker,37799.57057151856,126.0,6.0,1.1,3,False,nature;food;wildlife,spring,flight,resort
+T0216,22,M,self-employed,Budget Backpacker,1502.0,58.0,,8.4,1,False,adventure;food;nightlife,winter,bus,hostel
+T0217,21,M,student,Budget Backpacker,1063.0,73.0,7.0,5.6,1,False,nature;nightlife;adventure,summer,bus,apartment
+T0218,37,F,employed,Leisure & Relaxation,4035.0,244.0,8.0,2.2,2,False,relaxation;nature;photography;culture,summer,car,apartment
+T0219,59,M,self-employed,Leisure & Relaxation,8578.0,119.0,4.0,1.6,2,False,photography;shopping;history,,bus,resort
+T0220,49,F,self-employed,Leisure & Relaxation,7532.0,149.0,8.0,2.6,4,False,relaxation;history;shopping;food,autumn,flight,resort
+T0221,43,M,employed,Leisure & Relaxation,6949.0,163.0,12.0,3.2,2,False,adventure;photography;culture;nightlife;food,autumn,flight,apartment
+T0222,43,F,employed,Leisure & Relaxation,6160.0,244.0,5.0,1.7,3,True,nature;shopping,,car,homestay
+T0223,21,F,student,Budget Backpacker,2738.0,66.0,21.0,5.1,1,False,nature;adventure;nightlife,winter,flight,hostel
+T0224,36,M,self-employed,Family Vacationer,7512.0,239.0,2.0,2.8,5,True,history;culture;adventure;nature;wildlife,summer,car,resort
+T0225,36,M,employed,Leisure & Relaxation,4962.0,176.0,12.0,2.2,2,False,history;relaxation;food;nature,winter,flight,hotel
+T0226,46,F,employed,Leisure & Relaxation,4830.0,163.0,13.0,0.7,4,False,relaxation;food;history;adventure,spring,car,resort
+T0227,32,M,self-employed,Cultural Explorer,5657.0,104.0,10.0,1.4,3,True,culture;history;nature;food,summer,car,apartment
+T0228,23,F,student,Adventure Seeker,,113.0,8.0,3.6,3,True,nature;adventure;photography,,train,hotel
+T0229,54,F,employed,Leisure & Relaxation,8120.0,193.0,4.0,0.5,3,True,relaxation;photography;food;adventure,spring,car,resort
+T0230,21,F,student,Budget Backpacker,2044.0,56.0,19.0,7.4,2,False,shopping;food;relaxation;nature,spring,bus,hostel
+T0231,24,F,self-employed,Budget Backpacker,,41.0,19.0,7.5,3,False,adventure;nature;relaxation;culture;nightlife,summer,flight,hotel
+T0232,46,M,employed,Leisure & Relaxation,6402.0,168.0,8.0,3.0,2,False,photography;nature,autumn,car,resort
+T0233,40,F,self-employed,Family Vacationer,,176.0,5.0,2.1,4,True,nature;culture;relaxation;adventure;wildlife,summer,flight,resort
+T0234,34,M,self-employed,Leisure & Relaxation,8159.0,256.0,7.0,1.8,2,False,relaxation;nature;nightlife;culture,summer,flight,hotel
+T0235,49,F,employed,Family Vacationer,6741.0,201.0,7.0,2.0,3,True,adventure;shopping;culture;food;history;nature,summer,car,apartment
+T0236,42,M,employed,Family Vacationer,5789.0,125.0,7.0,1.1,3,True,food;wildlife;nature;relaxation,spring,flight,resort
+T0237,29,M,employed,Cultural Explorer,5207.0,189.0,8.0,2.4,2,False,adventure;history;photography,summer,flight,homestay
+T0238,26,M,employed,Cultural Explorer,4978.0,137.0,7.0,5.3,3,True,culture;shopping;photography;food,winter,train,homestay
+T0239,18,male,student,Adventure Seeker,3118.0,87.0,6.0,2.9,2,False,wildlife;adventure;relaxation,summer,flight,homestay
+T0240,26,M,unemployed,Adventure Seeker,5039.0,102.0,4.0,2.1,3,True,adventure;food;nature;nightlife,winter,flight,hotel
+T0241,50,M,employed,Cultural Explorer,5125.0,145.0,10.0,2.1,1,False,culture;food;history;photography,summer,flight,apartment
+T0242,33,F,employed,Family Vacationer,4553.0,125.0,7.0,0.5,3,True,wildlife;culture;nature;adventure;photography,summer,car,resort
+T0243,37,M,employed,Family Vacationer,4704.0,270.0,7.0,1.2,4,True,relaxation;adventure;photography;food,summer,flight,resort
+T0244,24,M,employed,Budget Backpacker,2118.0,55.0,10.0,9.9,2,False,adventure;relaxation;nature,summer,train,apartment
+T0245,25,F,self-employed,Budget Backpacker,2473.0,56.0,9.0,8.4,2,False,culture;photography;food,summer,bus,hostel
+T0246,18,F,employed,Budget Backpacker,1550.0,35.0,16.0,3.6,1,False,food;nightlife;culture;adventure;shopping;relaxation,winter,bus,hotel
+T0247,35,M,employed,Family Vacationer,3320.0,193.0,7.0,2.6,3,True,food;relaxation;adventure,summer,flight,resort
+T0248,50,M,employed,Family Vacationer,4427.0,145.0,8.0,2.6,3,True,nature;wildlife;history;culture,summer,car,hotel
+T0249,35,M,employed,Leisure & Relaxation,7542.0,253.0,10.0,3.0,2,False,nature;history;food;adventure;relaxation,summer,flight,resort
+T0250,23,F,unemployed,Budget Backpacker,2560.0,60.0,14.0,7.1,3,True,food;culture;nightlife;shopping,winter,train,hostel
+T0251,26,M,unemployed,Adventure Seeker,4853.0,134.0,8.0,5.4,1,False,adventure;shopping;nightlife;photography,winter,flight,hostel
+T0252,51,M,employed,Leisure & Relaxation,6741.0,132.0,13.0,1.4,2,False,food;relaxation;nature;photography,autumn,flight,apartment
+T0253,43,M,employed,Cultural Explorer,3951.0,164.0,6.0,3.9,2,False,food;shopping;history,spring,train,homestay
+T0254,29,F ,unemployed,Family Vacationer,800.0,169.0,9.0,1.8,3,True,wildlife;nature;food;relaxation,spring,car,hotel
+T0255,28,M,employed,Adventure Seeker,4226.0,83.0,5.0,4.2,3,True,photography;nature;wildlife,autumn,flight,homestay
+T0256,37,F,employed,Family Vacationer,5737.0,219.0,9.0,1.0,4,True,wildlife;history;nature,summer,car,apartment
+T0257,28,F,employed,Leisure & Relaxation,5323.0,147.0,9.0,2.9,2,False,adventure;food;relaxation;history;nature,summer,car,resort
+T0258,21,F,student,Budget Backpacker,1455.0,42.0,9.0,8.3,1,False,relaxation;adventure;history;nature;food,winter,train,hostel
+T0259,40,F,self-employed,Leisure & Relaxation,5925.0,180.0,7.0,3.4,1,False,relaxation;adventure;nature;history;food,summer,car,resort
+T0260,21,M,student,Adventure Seeker,1747.0,202.0,5.0,3.7,2,False,adventure;nightlife;culture;shopping;nature,autumn,train,hotel
+T0261,29,F,employed,Adventure Seeker,935.0,110.0,3.0,3.4,2,False,shopping;nature;adventure;photography,spring,car,apartment
+T0262,51,M,employed,Family Vacationer,8213.0,257.0,5.0,2.1,4,True,wildlife;nature;culture;food;history,summer,car,resort
+T0263,33,M,self-employed,Family Vacationer,5337.0,198.0,7.0,0.5,3,True,relaxation;culture;wildlife;adventure;photography;nature,autumn,flight,hotel
+T0264,41,F ,employed,Leisure & Relaxation,8274.0,143.0,4.0,1.8,1,False,nature;relaxation,spring,flight,hotel
+T0265,32,F,employed,Leisure & Relaxation,5746.0,181.0,8.0,2.3,2,False,relaxation;nature;nightlife;food;shopping;photography,winter,flight,resort
+T0266,44,F,employed,Cultural Explorer,6418.0,225.0,8.0,1.6,1,False,food;relaxation;culture;history,autumn,flight,hotel
+T0267,46,F,employed,Leisure & Relaxation,5440.0,252.0,8.0,3.7,2,False,food;relaxation;nature;shopping;nightlife,winter,car,apartment
+T0268,38,F,employed,Family Vacationer,6914.0,174.0,7.0,1.2,4,True,nature;relaxation;culture;wildlife;history,autumn,car,resort
+T0269,29,FEMALE ,unemployed,Adventure Seeker,2670.0,192.0,8.0,4.3,3,False,adventure;wildlife;nature,winter,car,hotel
+T0270,28,F,employed,Cultural Explorer,5491.0,216.0,12.0,3.4,3,True,food;nature;photography;culture,autumn,train,hotel
+T0271,19,M,student,Budget Backpacker,1466.0,57.0,10.0,2.8,1,False,food;nightlife;photography;nature,spring,train,apartment
+T0272,45,F,employed,Family Vacationer,,128.0,8.0,2.1,3,True,wildlife;culture;relaxation;history,winter,car,hotel
+T0273,25,M,employed,Adventure Seeker,5215.0,116.0,7.0,3.8,2,False,adventure;photography,autumn,flight,hotel
+T0274,29,M,self-employed,Family Vacationer,3639.0,153.0,6.0,0.8,4,True,food;wildlife;nature;relaxation;history,summer,flight,resort
+T0275,25,M,employed,Budget Backpacker,3076.0,43.0,4.0,2.8,1,False,food;nightlife;relaxation;adventure,summer,flight,homestay
+T0276,54,M,employed,Leisure & Relaxation,7476.0,179.0,8.0,2.1,3,True,adventure;relaxation;culture;history,spring,,apartment
+T0277,46,male,employed,Cultural Explorer,4730.0,140.0,12.0,3.0,2,False,culture;food;nature;adventure,spring,car,hotel
+T0278,34,M,employed,Leisure & Relaxation,4731.0,120.0,9.0,3.0,2,False,food;culture;relaxation;nature,autumn,flight,resort
+T0279,23,F,unemployed,Adventure Seeker,5267.0,140.0,8.0,5.5,2,False,nature;adventure;nightlife;wildlife;relaxation,summer,flight,apartment
+T0280,36,F,employed,Adventure Seeker,5037.0,92.0,5.0,3.1,2,False,nature;adventure;photography;nightlife,summer,flight,apartment
+T0281,37,M,self-employed,Adventure Seeker,3751.0,142.0,9.0,4.3,3,False,nightlife;photography;adventure,autumn,flight,hotel
+T0282,28,M,employed,Budget Backpacker,2459.0,70.0,21.0,6.5,1,False,nightlife;photography;culture;adventure,winter,train,homestay
+T0283,43,M,unemployed,Leisure & Relaxation,6213.0,208.0,9.0,2.6,1,False,nature;culture;photography,autumn,flight,resort
+T0284,38,F,employed,Cultural Explorer,3627.0,117.0,4.0,1.0,3,True,history;culture;food;photography,summer,flight,apartment
+T0285,30,M,self-employed,Cultural Explorer,3851.0,81.0,12.0,3.5,2,False,photography;history;shopping;nightlife;food,autumn,flight,apartment
+T0286,35,F,employed,Cultural Explorer,3926.0,126.0,10.0,4.0,2,False,culture;photography;adventure;relaxation;shopping,summer,train,apartment
+T0287,36,M,employed,Adventure Seeker,5716.0,148.0,7.0,4.6,1,False,photography;nature;culture;adventure,winter,flight,hostel
+T0288,49,M,employed,Cultural Explorer,4951.0,134.0,7.0,5.4,1,False,culture;history,spring,car,hotel
+T0289,53,M,employed,Leisure & Relaxation,9593.0,185.0,13.0,1.8,2,False,photography;relaxation;shopping;history,summer,flight,resort
+T0290,28,M,self-employed,Adventure Seeker,3930.0,157.0,6.0,3.5,3,True,wildlife;nightlife;photography;adventure;nature,winter,flight,hotel
+T0291,40,F,unemployed,Adventure Seeker,3816.0,151.0,9.0,4.8,2,False,adventure;nightlife;photography,spring,flight,homestay
+T0292,23,FEMALE ,student,Leisure & Relaxation,5281.0,179.0,7.0,2.8,3,False,photography;adventure;nature;shopping;relaxation,spring,flight,hotel
+T0293,46,male,employed,Leisure & Relaxation,9637.0,214.0,10.0,2.4,2,False,relaxation;culture;photography,autumn,flight,resort
+T0294,47,M,employed,Cultural Explorer,7628.0,190.0,4.0,2.7,2,False,culture;nightlife;food,spring,flight,apartment
+T0295,31,M,employed,Adventure Seeker,5039.0,,5.0,4.4,3,False,nightlife;adventure;nature,winter,flight,resort
+T0296,43,male,employed,Cultural Explorer,6776.0,92.0,10.0,4.2,3,False,culture;food;history;photography,autumn,train,apartment
+T0297,48,M,employed,Cultural Explorer,9266.0,117.0,6.0,2.3,1,False,culture;adventure;nature;history,autumn,train,hostel
+T0298,23,F,employed,Adventure Seeker,2027.0,202.0,4.0,2.6,2,False,nature;food;shopping;adventure;nightlife,winter,train,hostel
+T0299,36,F,employed,Adventure Seeker,5178.0,,7.0,2.2,1,False,nightlife;adventure;nature,spring,car,hotel
+T0300,52,M,employed,Leisure & Relaxation,7988.0,169.0,2.0,2.3,3,True,relaxation;culture;food,autumn,flight,resort
+T0301,21,F,student,Adventure Seeker,3055.0,146.0,7.0,4.0,1,False,nature;adventure;nightlife;food,autumn,flight,homestay
+T0302,22,M,student,Adventure Seeker,4947.0,91.0,7.0,3.8,2,False,adventure;nightlife;photography;wildlife,spring,car,apartment
+T0303,29,F,unemployed,Family Vacationer,6419.0,284.0,10.0,2.6,3,True,relaxation;nature;adventure;culture,autumn,flight,apartment
+T0304,42,M,self-employed,Cultural Explorer,4696.0,166.0,4.0,2.1,2,False,culture;history;nature;food;photography,summer,train,homestay
+T0305,48,F,employed,Leisure & Relaxation,5776.0,248.0,6.0,1.9,3,True,culture;history;shopping;photography,summer,flight,apartment
+T0306,41,M,self-employed,Family Vacationer,7297.0,284.0,10.0,2.3,4,True,nature;relaxation;history;wildlife,spring,car,resort
+T0307,28,F,employed,Budget Backpacker,2875.0,62.0,21.0,5.4,2,False,culture;adventure;wildlife;nightlife;photography,winter,train,hostel
+T0308,18,F,self-employed,Budget Backpacker,2949.0,72.0,14.0,6.2,1,False,nightlife;adventure;photography;food,autumn,bus,homestay
+T0309,24,M,employed,Budget Backpacker,1154.0,26.0,10.0,5.0,1,False,history;nightlife;food;nature,spring,train,hostel
+T0310,20,FEMALE ,employed,Budget Backpacker,2341.0,47.0,4.0,5.8,1,False,food;culture;nightlife;shopping,spring,bus,hostel
+T0311,35,M,employed,Leisure & Relaxation,8848.0,279.0,10.0,2.1,3,False,history;relaxation;food,autumn,flight,resort
+T0312,34,M,self-employed,Adventure Seeker,5165.0,153.0,11.0,1.7,2,False,adventure;wildlife;nature;nightlife,winter,flight,homestay
+T0313,45,F,employed,Leisure & Relaxation,3663.0,181.0,13.0,2.5,1,False,culture;food;relaxation;shopping,spring,car,resort
+T0314,31,M,self-employed,Adventure Seeker,5147.0,135.0,7.0,3.9,1,False,photography;nature;wildlife;adventure;nightlife,summer,train,homestay
+T0315,29,F,employed,Budget Backpacker,2137.0,57.0,,6.2,3,False,photography;adventure;nature;culture,summer,train,apartment
+T0316,26,F,employed,Adventure Seeker,2246.0,159.0,4.0,2.6,2,False,wildlife;adventure;photography;nature;food,summer,car,hotel
+T0317,39,F,employed,Leisure & Relaxation,3899.0,137.0,9.0,1.9,2,False,nature;relaxation;food,autumn,flight,resort
+T0318,35,M,employed,Cultural Explorer,5908.0,143.0,2.0,3.6,1,False,culture;history;shopping;food;adventure,autumn,bus,hostel
+T0319,37, male,employed,Family Vacationer,3972.0,272.0,8.0,2.6,4,True,adventure;nature;wildlife;relaxation;photography,winter,flight,apartment
+T0320,49,M,self-employed,Cultural Explorer,7853.0,134.0,9.0,2.3,1,False,shopping;history,summer,car,apartment
+T0321,23,F,student,Budget Backpacker,2126.0,74.0,18.0,7.3,1,False,adventure;shopping;relaxation;food,summer,car,hostel
+T0322,43,F,employed,Family Vacationer,9881.0,189.0,8.0,3.1,5,True,nature;adventure;history;photography,spring,car,apartment
+T0323,41,M,employed,Leisure & Relaxation,6304.0,189.0,11.0,2.3,3,False,shopping;history;relaxation;nature;food,autumn,flight,apartment
+T0324,20,M,student,Adventure Seeker,2338.0,146.0,7.0,2.7,2,False,nature;culture;adventure;wildlife,summer,flight,homestay
+T0325,27,F,employed,Family Vacationer,7284.0,156.0,9.0,4.4,3,True,photography;nature,,flight,apartment
+T0326,28,M,employed,Adventure Seeker,3150.0,91.0,9.0,3.4,3,False,nature;adventure;culture;photography;food;wildlife,winter,flight,apartment
+T0327,40,M,employed,Leisure & Relaxation,5272.0,171.0,11.0,0.5,1,False,relaxation;food;nature;photography;culture,spring,flight,resort
+T0328,29,F,employed,Adventure Seeker,6477.0,170.0,7.0,0.5,2,False,nightlife;culture;adventure;food;nature,summer,flight,resort
+T0329,34,F,employed,Adventure Seeker,2640.0,135.0,7.0,1.9,2,False,food;photography;nature;adventure,winter,flight,hotel
+T0330,33,F,employed,Family Vacationer,5815.0,197.0,4.0,0.7,4,True,culture;nature;adventure;wildlife;food,summer,bus,apartment
+T0331,50,M,employed,Leisure & Relaxation,7656.0,157.0,6.0,2.7,2,False,food;relaxation;culture;nature,autumn,flight,hotel
+T0332,46,FEMALE ,employed,Leisure & Relaxation,6572.0,115.0,7.0,0.5,1,False,food;nature;culture;nightlife,summer,car,hotel
+T0333,18,male,employed,Budget Backpacker,1650.0,70.0,12.0,4.4,2,False,food;wildlife;photography,spring,bus,hostel
+T0334,32,M,employed,Family Vacationer,5822.0,273.0,4.0,0.9,3,True,adventure;nature;food;relaxation,summer,car,hotel
+T0335,41,M,self-employed,Family Vacationer,9035.0,126.0,8.0,1.8,4,True,nature;wildlife;relaxation,winter,train,homestay
+T0336,37,male,self-employed,Cultural Explorer,6770.0,195.0,6.0,2.0,1,False,history;food;shopping,spring,car,hostel
+T0337,20,F,student,Budget Backpacker,,25.0,12.0,9.2,2,False,nightlife;adventure;relaxation;nature;food,summer,train,resort
+T0338,28,M,self-employed,Adventure Seeker,945.0,127.0,8.0,1.8,2,False,photography;food;adventure;nature,autumn,car,hostel
+T0339,36,F,self-employed,Family Vacationer,5675.0,151.0,6.0,1.9,4,True,nature;relaxation;culture;wildlife;food,summer,car,apartment
+T0340,33,M,self-employed,Family Vacationer,8544.0,200.0,6.0,2.5,4,True,wildlife;relaxation;history,summer,flight,resort
+T0341,33,M,employed,Adventure Seeker,3698.0,203.0,6.0,3.2,2,False,nature;wildlife;adventure;culture,winter,flight,homestay
+T0342,35,F,employed,Adventure Seeker,3541.0,165.0,8.0,2.8,2,False,food;adventure;wildlife;nightlife,summer,car,homestay
+T0343,37,M,employed,Leisure & Relaxation,6122.0,171.0,10.0,0.5,3,False,relaxation;nature;history;nightlife;food,winter,car,apartment
+T0344,29,F,employed,Family Vacationer,6687.0,157.0,6.0,3.0,3,True,relaxation;shopping;nature;food,autumn,car,hotel
+T0345,35,F,self-employed,Cultural Explorer,3631.0,88.0,7.0,4.5,1,False,nightlife;culture;history,autumn,train,hotel
+T0346,37,F,self-employed,Family Vacationer,5582.0,205.0,6.0,2.0,3,True,food;relaxation;wildlife;culture;adventure;nature,summer,car,apartment
+T0347,28,F,self-employed,Family Vacationer,8395.0,160.0,5.0,2.8,3,True,culture;history;nature;relaxation,spring,car,resort
+T0348,25,F ,employed,Budget Backpacker,2714.0,60.0,11.0,5.1,2,False,culture;photography;nightlife,summer,,hostel
+T0349,39,F,self-employed,Leisure & Relaxation,6332.0,195.0,9.0,2.1,1,False,relaxation;nature;photography,spring,car,resort
+T0350,30,M,self-employed,Adventure Seeker,4334.0,131.0,8.0,2.0,2,False,food;nightlife;nature,winter,car,apartment
+T0351,33,F,employed,Cultural Explorer,4786.0,115.0,7.0,1.1,3,False,history;culture;nature,spring,train,hostel
+T0352,19,F,student,Family Vacationer,6099.0,262.0,6.0,1.1,5,True,adventure;food;culture;wildlife,summer,flight,resort
+T0353,45,F ,employed,Leisure & Relaxation,8383.0,180.0,8.0,4.0,3,False,food;shopping;nature;adventure;nightlife,spring,train,hotel
+T0354,33,F,employed,Adventure Seeker,6235.0,97.0,7.0,3.7,2,False,nightlife;shopping;culture;adventure;wildlife;nature,winter,flight,hotel
+T0355,35,F,employed,Cultural Explorer,4257.0,148.0,8.0,2.1,2,False,history;food;photography,spring,car,hotel
+T0356,33,M,employed,Adventure Seeker,5147.0,167.0,6.0,4.7,3,False,adventure;food;photography,summer,flight,homestay
+T0357,18,F,student,Adventure Seeker,1993.0,177.0,8.0,4.8,2,False,photography;wildlife;food;adventure;nature,spring,car,hotel
+T0358,28,M,employed,Budget Backpacker,1320.0,50.0,4.0,6.3,1,False,shopping;food;nightlife;relaxation;nature,autumn,train,hostel
+T0359,22,M,student,Budget Backpacker,1605.0,53.0,12.0,1.5,2,False,nature;shopping;nightlife;adventure,autumn,bus,homestay
+T0360,30,M,employed,Cultural Explorer,6903.0,170.0,3.0,1.1,2,False,food;history;adventure;culture,summer,car,homestay
+T0361,20,F,student,Budget Backpacker,2001.0,46.0,9.0,4.5,2,False,relaxation;food;culture;nightlife,winter,car,hostel
+T0362,27,M,employed,Adventure Seeker,5101.0,142.0,9.0,4.2,1,False,nature;food;nightlife;photography,,flight,homestay
+T0363,37,M,self-employed,Family Vacationer,7457.0,182.0,6.0,0.7,3,True,wildlife;history;nature;food,autumn,car,resort
+T0364,33,M,employed,Leisure & Relaxation,,105.0,11.0,2.0,3,True,relaxation;adventure;nature,spring,train,hotel
+T0365,42,M,employed,Adventure Seeker,,168.0,6.0,2.4,2,False,nightlife;photography;adventure;nature,summer,flight,hostel
+T0366,41,M,unemployed,Family Vacationer,9911.0,187.0,,2.5,3,True,culture;adventure;wildlife,summer,,apartment
+T0367,35,F,employed,Cultural Explorer,4551.0,104.0,13.0,1.8,1,False,adventure;food;history;culture,spring,flight,hotel
+T0368,30,F,unemployed,Cultural Explorer,29338.146170385673,148.0,13.0,4.3,2,False,culture;photography;adventure,autumn,car,hotel
+T0369,35,F,employed,Family Vacationer,3984.0,170.0,5.0,0.7,5,True,relaxation;shopping;wildlife;nature;food,summer,flight,hotel
+T0370,40, male,employed,Leisure & Relaxation,,202.0,8.0,1.3,2,False,relaxation;photography;nature;culture;food;nightlife,autumn,,hotel
+T0371,22,male,self-employed,Budget Backpacker,1248.0,72.0,12.0,2.7,1,False,culture;nature;food;history;adventure;relaxation,winter,bus,homestay
+T0372,38,M,employed,Cultural Explorer,8266.0,133.0,11.0,2.9,1,False,culture;history;photography;food;nightlife,autumn,flight,homestay
+T0373,23,F,student,Budget Backpacker,1732.0,40.0,21.0,7.1,1,False,shopping;nightlife;history;food,winter,flight,hostel
+T0374,21,male,student,Adventure Seeker,4540.0,136.0,10.0,2.6,1,False,culture;adventure;nature;photography;wildlife,summer,flight,hotel
+T0375,56,M,employed,Cultural Explorer,43908.96667164233,208.0,15.0,3.6,2,False,culture;history;photography;nature,spring,,hotel
+T0376,29,M,employed,Leisure & Relaxation,7419.0,125.0,11.0,1.6,2,False,food;nature;history;relaxation,autumn,flight,resort
+T0377,21,F,self-employed,Adventure Seeker,3973.0,137.0,4.0,3.6,1,False,food;adventure;photography,summer,bus,apartment
+T0378,29,F,employed,Cultural Explorer,6119.0,172.0,6.0,3.8,2,False,nightlife;history;culture;nature;food;adventure,autumn,train,homestay
+T0379,22,M,student,Budget Backpacker,1535.0,58.0,19.0,4.1,2,False,relaxation;history;food,spring,bus,homestay
+T0380,30,F ,unemployed,Adventure Seeker,4602.0,167.0,9.0,5.7,2,False,food;nature;adventure;photography;nightlife,summer,car,hotel
+T0381,48,M,employed,Family Vacationer,7576.0,210.0,10.0,0.9,6,False,shopping;photography;relaxation;history,,,homestay
+T0382,38,F,employed,Leisure & Relaxation,,213.0,7.0,1.3,2,False,relaxation;adventure;nature,summer,car,resort
+T0383,30,M,unemployed,Adventure Seeker,2526.0,165.0,3.0,1.6,2,False,adventure;nature;relaxation;nightlife,winter,flight,apartment
+T0384,23,M,self-employed,Adventure Seeker,4233.0,192.0,9.0,3.7,2,False,adventure;nature;photography;wildlife,winter,train,hotel
+T0385,18,F,student,Budget Backpacker,1974.0,57.0,15.0,6.5,3,False,food;adventure;photography;nature,summer,train,homestay
+T0386,33,F,employed,Family Vacationer,9052.0,,10.0,2.2,3,True,photography;wildlife;culture;history;relaxation,spring,flight,hotel
+T0387,43,M,employed,Cultural Explorer,5109.0,145.0,11.0,4.0,3,False,nightlife;culture;food;shopping,winter,flight,resort
+T0388,34,M,employed,Family Vacationer,7000.0,219.0,9.0,0.7,4,True,adventure;culture;wildlife;relaxation;food,spring,car,apartment
+T0389,23,M,student,Cultural Explorer,4538.0,171.0,8.0,1.0,2,False,history;nature;food;adventure,summer,train,hotel
+T0390,36,M,employed,Cultural Explorer,4660.0,265.0,9.0,1.3,1,False,culture;adventure;food;photography;history,autumn,bus,homestay
+T0391,31,M,self-employed,Adventure Seeker,6042.0,149.0,6.0,2.0,2,False,photography;nature;adventure;wildlife,summer,flight,homestay
+T0392,24,M,employed,Cultural Explorer,7441.0,204.0,12.0,3.5,3,True,history;culture;shopping;nature,summer,car,apartment
+T0393,51,M,self-employed,Leisure & Relaxation,5220.0,136.0,7.0,3.8,1,False,food;culture;photography,autumn,flight,resort
+T0394,28,F,employed,Adventure Seeker,3653.0,141.0,5.0,2.1,3,True,adventure;nightlife;wildlife;photography,winter,flight,resort
+T0395,31,M,employed,Adventure Seeker,4385.0,96.0,7.0,2.4,1,False,nightlife;adventure;nature;photography;food,autumn,flight,hotel
+T0396,45,M,employed,Family Vacationer,5204.0,134.0,8.0,2.5,3,True,wildlife;relaxation;adventure,summer,car,resort
+T0397,57,M,self-employed,Leisure & Relaxation,,205.0,10.0,2.0,3,False,food;nature;relaxation;photography;nightlife,summer,car,resort
+T0398,35,F,employed,Cultural Explorer,4140.0,151.0,3.0,3.7,3,True,relaxation;culture;history;food,autumn,flight,homestay
+T0399,29,F,unemployed,Adventure Seeker,4088.0,119.0,5.0,3.4,2,False,adventure;photography;nightlife;food,autumn,car,hostel
+T0400,44,M,employed,Leisure & Relaxation,6638.0,138.0,8.0,0.5,1,False,shopping;relaxation;nature,autumn,flight,hotel
+T0401,44,M,employed,Leisure & Relaxation,,256.0,6.0,2.0,2,False,food;shopping;nightlife,spring,flight,resort
+T0402,35,F,employed,Family Vacationer,7408.0,203.0,7.0,1.0,4,False,relaxation;photography;food;nature,summer,car,resort
+T0403,33,M,employed,Cultural Explorer,5854.0,102.0,5.0,2.8,2,False,food;culture;relaxation,winter,train,homestay
+T0404,21,M,unemployed,Budget Backpacker,2783.0,36.0,11.0,3.5,1,False,food;culture;relaxation;adventure,spring,train,hostel
+T0405,37,F,employed,Adventure Seeker,2814.0,120.0,2.0,3.8,2,False,nightlife;food;nature;photography;adventure,winter,train,resort
+T0406,29,F,employed,Adventure Seeker,4186.0,157.0,5.0,3.3,2,False,adventure;nightlife;wildlife;shopping;food,summer,flight,hotel
+T0407,25,F,self-employed,Adventure Seeker,4882.0,184.0,8.0,3.5,3,False,photography;nature,winter,flight,resort
+T0408,28,M,employed,Budget Backpacker,1932.0,71.0,8.0,5.2,2,False,adventure;culture;nightlife;history,summer,train,hostel
+T0409,31, male,employed,Adventure Seeker,3140.0,136.0,6.0,0.5,1,False,photography;food;nature;adventure,autumn,train,resort
+T0410,18,F,student,Budget Backpacker,1125.0,28.0,17.0,0.7,2,False,adventure;food;nature,summer,train,hostel
+T0411,44,F,employed,Family Vacationer,4671.0,240.0,7.0,2.1,5,True,nature;relaxation,summer,flight,apartment
+T0412,28,F,employed,Budget Backpacker,2013.0,45.0,5.0,8.1,3,False,food;shopping;adventure;nature,spring,bus,homestay
+T0413,18,M,employed,Budget Backpacker,3000.0,65.0,13.0,6.3,2,False,wildlife;nightlife;nature;adventure;shopping,autumn,bus,hotel
+T0414,29,M,unemployed,Leisure & Relaxation,4638.0,209.0,7.0,3.0,3,True,nature;relaxation;adventure;food,winter,car,resort
+T0415,49,F,employed,Cultural Explorer,5193.0,117.0,11.0,3.1,1,False,nature;culture;food;photography,summer,car,homestay
+T0416,19,F,student,Adventure Seeker,5037.0,99.0,10.0,3.5,2,False,adventure;wildlife;culture;nature,summer,car,apartment
+T0417,43,M,employed,Family Vacationer,6330.0,215.0,4.0,1.6,3,True,photography;nature;relaxation;culture,summer,bus,resort
+T0418,33,F,self-employed,Cultural Explorer,5519.0,166.0,12.0,0.5,1,False,culture;history;food;nature;adventure,autumn,train,hotel
+T0419,29,F,self-employed,Adventure Seeker,3354.0,,6.0,2.7,1,False,adventure;wildlife;nightlife;nature;culture,winter,car,hostel
+T0420,41,M,employed,Leisure & Relaxation,5218.0,175.0,3.0,1.8,2,False,relaxation;shopping,winter,train,resort
+T0421,32,M,employed,Leisure & Relaxation,7002.0,158.0,11.0,2.0,2,False,culture;food;nature;relaxation,autumn,flight,homestay
+T0422,22,F,student,Adventure Seeker,,100.0,9.0,4.8,1,False,culture;photography;adventure;food,autumn,train,resort
+T0423,48,F,employed,Family Vacationer,8203.0,152.0,10.0,1.0,4,True,nature;adventure;relaxation;food;culture,summer,flight,resort
+T0424,25,M,employed,Budget Backpacker,2636.0,75.0,13.0,0.9,1,False,photography;food;culture;history,spring,train,hotel
+T0425,24,F,employed,Adventure Seeker,4778.0,149.0,6.0,5.0,2,False,adventure;wildlife;nature,spring,flight,hotel
+T0426,27,F,employed,Adventure Seeker,4741.0,101.0,10.0,3.2,3,True,food;photography;nightlife;adventure;wildlife,autumn,car,apartment
+T0427,22,M,employed,Adventure Seeker,5940.0,92.0,8.0,2.0,2,False,adventure;relaxation;nightlife;nature,spring,train,homestay
+T0428,50,M,employed,Leisure & Relaxation,4967.0,187.0,14.0,1.4,2,False,food;photography;nature;nightlife,autumn,flight,hotel
+T0429,26,M,employed,Cultural Explorer,,66.0,7.0,2.1,2,False,history;culture;food;photography;nature,summer,bus,homestay
+T0430,20,F,unemployed,Budget Backpacker,2096.0,40.0,10.0,2.5,1,False,nightlife;culture;nature;photography,summer,bus,hostel
+T0431,25,F ,employed,Budget Backpacker,1912.0,68.0,12.0,8.0,2,False,photography;culture;nightlife,summer,train,hostel
+T0432,25,M,employed,Adventure Seeker,3697.0,168.0,6.0,5.9,1,False,wildlife;adventure;nature,winter,train,hotel
+T0433,30,F,employed,Family Vacationer,1659.0,145.0,6.0,1.3,4,True,wildlife;relaxation;culture;nature,summer,car,hotel
+T0434,28,M,self-employed,Adventure Seeker,3320.0,171.0,5.0,4.8,1,False,nature;photography;wildlife,spring,flight,hostel
+T0435,40,M,employed,Cultural Explorer,5261.0,195.0,4.0,5.0,2,False,culture;history;nature;nightlife,autumn,car,homestay
+T0436,28,M,employed,Leisure & Relaxation,8918.0,208.0,7.0,4.1,1,False,relaxation;photography;food;nature,winter,car,hotel
+T0437,21,M,student,Adventure Seeker,4298.0,137.0,6.0,3.4,2,False,food;photography;culture;nature,spring,car,apartment
+T0438,30,M,unemployed,Leisure & Relaxation,6406.0,160.0,10.0,0.6,3,False,relaxation;nature;food;shopping,winter,flight,homestay
+T0439,46,M,employed,Family Vacationer,9753.0,175.0,5.0,2.3,3,False,wildlife;food;culture;relaxation;photography,spring,car,resort
+T0440,37,F,self-employed,Family Vacationer,4049.0,238.0,3.0,1.4,3,True,photography;nature;wildlife;culture,summer,car,apartment
+T0441,26,M,self-employed,Adventure Seeker,4396.0,126.0,4.0,5.0,3,False,wildlife;photography;nature;adventure;food,summer,flight,hotel
+T0442,40,F,employed,Adventure Seeker,3746.0,114.0,4.0,5.0,2,False,food;nature;adventure,summer,flight,resort
+T0443,52,F,employed,Adventure Seeker,,121.0,6.0,5.6,1,False,food;adventure;nightlife;wildlife;nature,autumn,train,hostel
+T0444,32,F,employed,Cultural Explorer,3867.0,103.0,10.0,3.3,2,False,culture;photography;history;nature;nightlife,autumn,train,homestay
+T0445,19,F,self-employed,Budget Backpacker,2381.0,64.0,17.0,6.0,2,False,relaxation;nature;nightlife;adventure;culture,autumn,flight,apartment
+T0446,34,F,self-employed,Adventure Seeker,5060.0,158.0,6.0,2.8,1,False,culture;nature;photography;adventure;nightlife;food,winter,car,hotel
+T0447,22,F,self-employed,Budget Backpacker,2405.0,58.0,4.0,5.8,2,False,food;photography;nightlife;nature;culture,winter,train,homestay
+T0448,38,F,employed,Leisure & Relaxation,7855.0,182.0,10.0,0.8,1,False,photography;shopping;food;relaxation,winter,car,hotel
+T0449,27,F,employed,Adventure Seeker,5059.0,101.0,8.0,4.1,2,False,nature;photography;adventure,winter,car,hotel
+T0450,30,F,employed,Leisure & Relaxation,4649.0,184.0,9.0,2.2,3,True,photography;food;relaxation;nature,autumn,flight,apartment
+T0451,35,M,employed,Family Vacationer,6854.0,209.0,6.0,1.7,3,True,wildlife;relaxation;nature,winter,flight,hotel
+T0452,18,F,student,Adventure Seeker,4214.0,187.0,4.0,3.1,2,False,adventure;shopping;food;nature;photography,summer,,apartment
+T0453,36,F,unemployed,Family Vacationer,5822.0,238.0,6.0,2.2,4,True,relaxation;nature;culture;wildlife,spring,,resort
+T0454,38,F,employed,Leisure & Relaxation,5381.0,117.0,11.0,1.1,2,False,relaxation;photography;nature;history;culture,autumn,flight,hotel
+T0455,43,F,employed,Cultural Explorer,6655.0,169.0,7.0,3.3,2,False,photography;history;culture,spring,car,hotel
+T0456,37,M,employed,Cultural Explorer,,149.0,4.0,2.3,3,False,history;shopping,autumn,car,apartment
+T0457,34,FEMALE ,self-employed,Cultural Explorer,6462.0,213.0,14.0,3.1,1,False,photography;food;history,summer,flight,resort
+T0458,34,M,unemployed,Family Vacationer,6933.0,,7.0,2.5,3,True,nature;adventure,autumn,car,resort
+T0459,30,M,employed,Cultural Explorer,4706.0,196.0,7.0,2.1,3,True,food;nature;culture;shopping,winter,flight,homestay
+T0460,55,F,employed,Leisure & Relaxation,6222.0,105.0,12.0,2.4,3,True,relaxation;food;photography;culture;nightlife,autumn,flight,resort
+T0461,39,F,employed,Family Vacationer,8777.0,286.0,9.0,1.9,4,True,nature;adventure;food;photography,summer,car,resort
+T0462,22,M,student,Budget Backpacker,1374.0,67.0,19.0,6.5,2,False,culture;adventure;nature,winter,train,hostel
+T0463,45,F,employed,Cultural Explorer,4850.0,103.0,7.0,3.9,2,False,photography;culture;history;nature;nightlife,summer,train,homestay
+T0464,40,M,employed,Cultural Explorer,8541.0,157.0,11.0,3.1,3,True,adventure;history;nature;culture;food,spring,train,hotel
+T0465,47,M,employed,Cultural Explorer,8803.0,124.0,4.0,1.6,2,False,history;adventure;culture;nightlife,spring,car,homestay
+T0466,24,M,employed,Leisure & Relaxation,5460.0,180.0,8.0,4.1,2,False,nature;relaxation;nightlife;food,summer,car,resort
+T0467,40,F,employed,Family Vacationer,89009.90720422762,,9.0,3.0,4,True,history;wildlife;culture,summer,car,resort
+T0468,35,F,employed,Family Vacationer,8147.0,194.0,6.0,2.6,4,True,relaxation;adventure;photography;history;shopping,summer,car,hotel
+T0469,27,F,employed,Cultural Explorer,2096.0,209.0,3.0,3.4,2,False,history;photography;culture,,flight,homestay
+T0470,20,M,student,Budget Backpacker,1398.0,55.0,15.0,5.3,2,False,adventure;nightlife;history;shopping,autumn,car,homestay
+T0471,25,F,self-employed,Adventure Seeker,2965.0,143.0,5.0,3.3,1,False,wildlife;nature,autumn,flight,resort
+T0472,19,M,student,Budget Backpacker,2467.0,58.0,19.0,3.5,2,False,adventure;nightlife;nature;shopping;wildlife,autumn,train,hostel
+T0473,43,M,employed,Cultural Explorer,4925.0,107.0,4.0,3.2,3,False,relaxation;culture;nature,spring,flight,homestay
+T0474,31,M,self-employed,Adventure Seeker,5256.0,126.0,6.0,4.4,3,True,nightlife;photography;nature;adventure,winter,flight,hotel
+T0475,40,M,self-employed,Cultural Explorer,5704.0,158.0,4.0,2.3,2,False,food;culture;photography;history,autumn,car,hotel
+T0476,40,F,employed,Leisure & Relaxation,8099.0,234.0,7.0,2.0,1,False,relaxation;food;history;nature,summer,flight,resort
+T0477,33,F,unemployed,Family Vacationer,8916.0,219.0,6.0,2.6,3,True,wildlife;culture;adventure;nature;food,summer,car,hotel
+T0478,41,M,employed,Leisure & Relaxation,4831.0,199.0,9.0,1.0,2,False,relaxation;nature;shopping,spring,car,resort
+T0479,29,M,employed,Budget Backpacker,1891.0,50.0,9.0,7.8,2,False,relaxation;adventure;culture;food,autumn,flight,homestay
+T0480,33,F,employed,Cultural Explorer,6599.0,172.0,5.0,3.4,1,False,photography;culture;food;shopping,winter,car,homestay
+T0481,25,M,employed,Adventure Seeker,2164.0,188.0,8.0,4.9,2,False,adventure;food;nightlife;photography,summer,bus,apartment
+T0482,20,F,self-employed,Budget Backpacker,1791.0,63.0,21.0,4.1,3,False,relaxation;adventure;food;photography,winter,flight,hostel
+T0483,29,M,employed,Adventure Seeker,5289.0,99.0,9.0,2.1,3,True,adventure;food,autumn,flight,hotel
+T0484,27,F,self-employed,Cultural Explorer,4027.0,65.0,9.0,4.8,3,False,photography;nature;history;culture;shopping,autumn,flight,apartment
+T0485,37,M,employed,Adventure Seeker,,189.0,8.0,2.9,3,False,food;culture;adventure,summer,flight,hotel
+T0486,40,F,employed,Cultural Explorer,3451.0,156.0,5.0,4.9,2,False,food;nightlife;photography;culture,autumn,flight,apartment
+T0487,49,F ,employed,Leisure & Relaxation,8611.0,275.0,,1.1,2,False,shopping;food;relaxation;history;nature,winter,train,resort
+T0488,41,F,employed,Family Vacationer,8631.0,145.0,8.0,2.3,4,True,adventure;relaxation;nature;food;culture,summer,train,resort
+T0489,26,M,employed,Adventure Seeker,6343.0,99.0,2.0,3.4,3,False,nature;photography;food;adventure;nightlife,summer,train,homestay
+T0490,28,M,employed,Family Vacationer,7688.0,191.0,4.0,1.6,3,True,wildlife;photography;nature;relaxation,summer,car,resort
+T0491,28,F,unemployed,Family Vacationer,6008.0,210.0,3.0,1.3,5,True,food;nature;culture;relaxation,summer,car,apartment
+T0492,34,F,employed,Leisure & Relaxation,4150.0,180.0,12.0,0.9,2,False,photography;nature,spring,flight,resort
+T0493,46,M,self-employed,Family Vacationer,11855.0,278.0,5.0,1.5,3,True,photography;history;nature;adventure;wildlife,spring,train,resort
+T0494,41,M,employed,Family Vacationer,8792.0,,7.0,3.7,3,True,nature;relaxation;wildlife;food;culture,autumn,flight,hotel
+T0495,24,M,employed,Adventure Seeker,4282.0,114.0,3.0,3.1,4,False,food;wildlife;photography,autumn,,apartment
+T0496,44,M,employed,Cultural Explorer,6993.0,182.0,11.0,4.8,3,True,nature;culture,autumn,train,resort
+T0497,25,M,employed,Adventure Seeker,2804.0,131.0,5.0,5.7,1,False,nature;adventure;relaxation;culture,summer,car,hotel
+T0498,54,M,unemployed,Leisure & Relaxation,3946.0,160.0,9.0,4.0,2,False,photography;history;nature;shopping,spring,car,resort
+T0499,49,M,employed,Leisure & Relaxation,7910.0,121.0,2.0,2.4,3,False,relaxation;shopping;nightlife,autumn,car,resort
+T0500,24,F,self-employed,Adventure Seeker,4112.0,124.0,7.0,2.3,2,False,relaxation;nature;adventure;nightlife,spring,flight,resort
+T0501,34,F,employed,Adventure Seeker,5380.0,143.0,6.0,2.2,2,False,nightlife;relaxation;photography;adventure,spring,bus,homestay
+T0502,45,M,employed,Family Vacationer,9120.0,181.0,9.0,2.5,4,True,nature;wildlife;culture,summer,flight,hotel
+T0503,48,F,employed,Cultural Explorer,3333.0,119.0,10.0,2.3,3,False,food;history;shopping;nature,spring,car,homestay
+T0504,30,F,employed,Leisure & Relaxation,8349.0,192.0,6.0,2.2,1,False,culture;adventure;relaxation;food;shopping;nature,autumn,car,apartment
+T0505,58,M,employed,Cultural Explorer,4150.0,149.0,9.0,1.9,2,False,photography;history;food;culture,autumn,flight,hotel
+T0506,21,F,student,Leisure & Relaxation,6071.0,188.0,7.0,3.1,3,False,photography;history,spring,flight,resort
+T0507,70, male,employed,Cultural Explorer,8655.0,148.0,10.0,1.1,1,False,nature;history;food,summer,bus,hotel
+T0508,18,F,employed,Budget Backpacker,1844.0,61.0,10.0,7.2,2,False,nightlife;adventure;culture;photography,summer,train,homestay
+T0509,33,F,employed,Leisure & Relaxation,7083.0,106.0,6.0,2.8,2,False,shopping;food;photography;history,autumn,flight,resort
+T0510,33,F,employed,Family Vacationer,6436.0,204.0,5.0,1.0,3,True,nightlife;relaxation;photography;nature,winter,car,hotel
+T0511,23,F,unemployed,Cultural Explorer,3939.0,155.0,6.0,2.0,2,False,culture;photography;shopping;food,spring,train,hotel
+T0512,39,FEMALE ,employed,Cultural Explorer,5111.0,150.0,7.0,2.3,2,False,history;culture;shopping;food;photography;adventure,autumn,train,apartment
+T0513,37,F,employed,Leisure & Relaxation,2730.0,238.0,11.0,2.3,3,False,food;relaxation;culture;photography,summer,flight,hotel
+T0514,20,F,employed,Adventure Seeker,5105.0,,5.0,4.0,2,False,nature;photography;culture;nightlife,winter,flight,hotel
+T0515,27, male,self-employed,Adventure Seeker,3189.0,77.0,6.0,1.6,2,False,culture;photography;nature;relaxation;adventure;nightlife,winter,flight,homestay
+T0516,54,F,employed,Leisure & Relaxation,7941.0,214.0,5.0,4.5,2,False,relaxation;food;nightlife,summer,car,resort
+T0517,32,M,employed,Leisure & Relaxation,4249.0,225.0,10.0,2.4,3,True,culture;relaxation;photography,winter,train,apartment
+T0518,34,M,unemployed,Family Vacationer,4919.0,263.0,10.0,2.3,4,True,relaxation;adventure;wildlife;food,summer,car,hotel
+T0519,50,M,employed,Family Vacationer,6790.0,148.0,7.0,2.7,3,True,culture;food;adventure,summer,train,resort
+T0520,20,F,unemployed,Budget Backpacker,1945.0,61.0,6.0,6.5,1,False,nature;culture;adventure;relaxation,summer,flight,resort
+T0521,18,F,employed,Adventure Seeker,2903.0,134.0,6.0,4.8,2,False,adventure;nature;wildlife;nightlife,winter,car,homestay
+T0522,40,M,employed,Leisure & Relaxation,6916.0,157.0,10.0,1.1,3,False,relaxation;nightlife;culture;food,winter,flight,hotel
+T0523,20,M,student,Budget Backpacker,1536.0,70.0,4.0,3.4,1,False,nightlife;adventure;relaxation;history,summer,train,homestay
+T0524,18,M,student,Cultural Explorer,4670.0,141.0,2.0,1.5,2,False,culture;shopping;adventure;food;nightlife,spring,flight,apartment
+T0525,21,M,employed,Adventure Seeker,2615.0,138.0,6.0,4.1,2,False,adventure;nature;photography,spring,train,homestay
+T0526,26,F,employed,Family Vacationer,,,9.0,2.6,4,False,adventure;culture;nature;wildlife;photography;relaxation,summer,car,apartment
+T0527,47,M,employed,Leisure & Relaxation,5606.0,222.0,2.0,2.7,2,False,culture;relaxation;food;nature;adventure,winter,flight,resort
+T0528,38,F,employed,Cultural Explorer,4845.0,177.0,,1.5,2,False,history;culture;food;shopping;nightlife,spring,car,apartment
+T0529,52,F,employed,Leisure & Relaxation,6175.0,156.0,7.0,2.8,2,False,relaxation;photography;food,spring,car,hotel
+T0530,58,F,employed,Family Vacationer,9764.0,268.0,7.0,1.7,4,True,nature;food;relaxation;adventure,autumn,car,apartment
+T0531,50,F,unemployed,Leisure & Relaxation,10482.0,177.0,14.0,2.0,2,False,food;history;nature;shopping;relaxation,winter,flight,hotel
+T0532,31,F,employed,Leisure & Relaxation,5422.0,201.0,9.0,3.8,1,False,relaxation;shopping;culture,autumn,flight,hotel
+T0533,38,F,employed,Family Vacationer,4391.0,175.0,6.0,2.6,3,True,photography;nature;relaxation;adventure;wildlife;culture,summer,car,resort
+T0534,59,F,employed,Leisure & Relaxation,8187.0,258.0,15.0,3.0,3,False,nature;food;nightlife;culture;relaxation,autumn,car,hotel
+T0535,39,M,employed,Leisure & Relaxation,6964.0,106.0,4.0,2.4,1,False,food;photography;culture;relaxation,summer,flight,hotel
+T0536,43,M,employed,Cultural Explorer,6273.0,143.0,10.0,3.0,1,False,nightlife;history;culture;photography;shopping,winter,flight,homestay
+T0537,40,F,employed,Cultural Explorer,3007.0,170.0,9.0,3.7,1,False,adventure;history;food;culture,spring,flight,apartment
+T0538,30,F,employed,Leisure & Relaxation,5525.0,160.0,8.0,2.1,2,False,culture;relaxation;photography,autumn,car,resort
+T0539,41,M,self-employed,Family Vacationer,5467.0,199.0,8.0,1.5,4,True,relaxation;wildlife;culture,summer,flight,resort
+T0540,39,male,self-employed,Family Vacationer,6902.0,206.0,3.0,2.8,4,True,wildlife;history;relaxation;food,summer,train,hotel
+T0541,18,M,student,Cultural Explorer,3139.0,142.0,9.0,1.1,2,False,culture;food;shopping,spring,bus,hotel
+T0542,36,F,employed,Cultural Explorer,5233.0,188.0,9.0,2.9,1,False,adventure;history;food,spring,flight,resort
+T0543,41,M,employed,Family Vacationer,7499.0,292.0,11.0,3.4,4,True,history;food;shopping,summer,flight,apartment
+T0544,28,F,unemployed,Adventure Seeker,2336.0,146.0,6.0,4.4,2,False,adventure;nightlife;wildlife;nature,spring,train,homestay
+T0545,21,M,student,Budget Backpacker,1904.0,81.0,15.0,9.9,2,False,food;adventure;photography,summer,train,homestay
+T0546,35,F,self-employed,Cultural Explorer,6034.0,188.0,7.0,0.5,3,False,food;adventure;history;nature,summer,train,hotel
+T0547,32,F,employed,Adventure Seeker,4909.0,122.0,7.0,2.7,2,False,nature;nightlife;adventure;relaxation;photography;food,winter,flight,hotel
+T0548,38,M,employed,Family Vacationer,9226.0,190.0,8.0,2.4,4,True,photography;wildlife;food,spring,car,hotel
+T0549,37,M,self-employed,Cultural Explorer,4521.0,125.0,10.0,3.4,2,False,history;culture;shopping;food;adventure,summer,flight,hotel
+T0550,65,M,employed,Leisure & Relaxation,6730.0,175.0,8.0,1.3,1,False,nature;relaxation;shopping;adventure,summer,car,resort
+T0551,18,F,student,Cultural Explorer,5115.0,155.0,15.0,3.9,1,False,adventure;nature;nightlife;photography,summer,car,hotel
+T0552,45,M,employed,Leisure & Relaxation,3917.0,101.0,13.0,2.4,2,False,food;nature,winter,flight,apartment
+T0553,38,M,unemployed,Family Vacationer,8497.0,149.0,7.0,0.5,3,True,wildlife;nature;nightlife;relaxation,summer,flight,resort
+T0554,36,F,self-employed,Leisure & Relaxation,4603.0,199.0,6.0,2.1,2,False,relaxation;culture;food,summer,flight,hotel
+T0555,31,F,employed,Adventure Seeker,4362.0,105.0,6.0,3.6,1,False,nightlife;nature;adventure;wildlife,spring,flight,homestay
+T0556,32,F,employed,Budget Backpacker,2643.0,67.0,13.0,7.1,2,False,food;history;relaxation;photography;adventure,winter,train,hostel
+T0557,25,M,employed,Adventure Seeker,2948.0,138.0,,3.0,2,False,nature;adventure;wildlife,summer,flight,hostel
+T0558,36,M,employed,Cultural Explorer,6900.0,108.0,8.0,3.0,3,True,nature;food;photography;culture,winter,car,homestay
+T0559,27,F,employed,Adventure Seeker,3126.0,202.0,4.0,3.2,1,False,photography;shopping;adventure;culture;relaxation;nature,summer,flight,homestay
+T0560,19,F,student,Cultural Explorer,5220.0,148.0,7.0,3.5,2,False,culture;nightlife;history;food,spring,flight,homestay
+T0561,39,M,employed,Family Vacationer,8803.0,194.0,7.0,2.7,3,True,relaxation;food,summer,,apartment
+T0562,25,F,employed,Adventure Seeker,6603.0,210.0,8.0,2.6,2,False,relaxation;nightlife;nature,summer,flight,apartment
+T0563,24,M,employed,Adventure Seeker,4978.0,130.0,9.0,5.6,1,False,nightlife;adventure;nature,autumn,flight,resort
+T0564,39,M,employed,Leisure & Relaxation,8206.0,162.0,11.0,3.3,2,False,shopping;relaxation;photography;culture;nature,spring,car,hotel
+T0565,25,M,unemployed,Adventure Seeker,5233.0,134.0,5.0,3.2,1,False,wildlife;adventure;nature;food;relaxation,winter,flight,apartment
+T0566,48,M,employed,Cultural Explorer,4057.0,179.0,10.0,2.7,1,False,culture;history;food;nature;shopping,autumn,flight,homestay
+T0567,26,M,employed,Adventure Seeker,3335.0,112.0,,1.4,3,False,adventure;photography;nightlife,spring,train,apartment
+T0568,26,F,employed,Budget Backpacker,3381.0,37.0,20.0,5.1,1,False,nightlife;food;photography;shopping,winter,train,hotel
+T0569,53,F,employed,Leisure & Relaxation,4588.0,160.0,7.0,0.9,3,True,relaxation;culture;photography;wildlife,autumn,flight,hotel
+T0570,38,F,unemployed,Leisure & Relaxation,6820.0,132.0,8.0,1.1,3,False,nightlife;shopping;food;nature,spring,car,hotel
+T0571,46,M,self-employed,Family Vacationer,6707.0,290.0,8.0,1.3,4,False,adventure;culture;history,summer,flight,hotel
+T0572,55,F,self-employed,Leisure & Relaxation,8522.0,150.0,7.0,1.9,3,True,relaxation;shopping;history,autumn,bus,apartment
+T0573,36,F,self-employed,Leisure & Relaxation,7220.0,179.0,7.0,2.8,3,True,food;relaxation;photography;nightlife,summer,car,apartment
+T0574,48,F,employed,Leisure & Relaxation,,168.0,10.0,3.0,2,False,nature;adventure;food;photography;relaxation,summer,car,apartment
+T0575,36,M,unemployed,Leisure & Relaxation,4445.0,162.0,10.0,2.5,3,False,shopping;adventure;relaxation,autumn,flight,apartment
+T0576,49,M,employed,Leisure & Relaxation,6175.0,188.0,12.0,3.8,2,False,photography;food;relaxation;shopping;nightlife,spring,flight,resort
+T0577,57,M,employed,Leisure & Relaxation,7533.0,115.0,9.0,1.5,2,False,relaxation;nightlife;food;photography;shopping,spring,flight,resort
+T0578,23,F,student,Budget Backpacker,1203.0,70.0,16.0,2.9,2,False,adventure;culture;nightlife,summer,train,homestay
+T0579,22,F,employed,Adventure Seeker,5260.0,115.0,8.0,0.7,1,False,adventure;culture;photography,summer,flight,hostel
+T0580,34,M,employed,Cultural Explorer,5417.0,145.0,8.0,3.7,3,False,food;culture;history;photography;nightlife,spring,car,hotel
+T0581,33,M,self-employed,Family Vacationer,,255.0,5.0,2.0,4,True,relaxation;nature;food;wildlife,summer,car,apartment
+T0582,21,M,student,Budget Backpacker,2374.0,59.0,9.0,4.7,1,False,nature;culture;food;nightlife;adventure,,flight,hotel
+T0583,23,M,employed,Cultural Explorer,4362.0,180.0,12.0,3.3,3,True,food;history;adventure;culture;nightlife,autumn,flight,hotel
+T0584,25,F,employed,Budget Backpacker,1938.0,84.0,15.0,5.6,3,False,photography;food;nightlife;relaxation,summer,train,homestay
+T0585,34,F,employed,Adventure Seeker,3713.0,71.0,6.0,4.0,2,False,nature;culture;adventure;relaxation;nightlife,autumn,car,resort
+T0586,27,F,unemployed,Family Vacationer,5258.0,236.0,10.0,1.8,5,False,nature;history;wildlife;photography;food,summer,bus,resort
+T0587,18,F,student,Budget Backpacker,,70.0,,6.2,2,False,wildlife;food;nightlife;culture,winter,bus,hostel
+T0588,22,F,student,Adventure Seeker,3010.0,100.0,2.0,0.5,2,False,nature;nightlife;adventure;photography,spring,flight,apartment
+T0589,29,F,employed,Adventure Seeker,5242.0,88.0,7.0,3.1,1,False,photography;nature,autumn,car,hotel
+T0590,54,F,employed,Leisure & Relaxation,5277.0,120.0,11.0,2.0,2,False,food;relaxation;adventure;shopping,autumn,train,resort
+T0591,53,M,self-employed,Leisure & Relaxation,5975.0,203.0,13.0,0.9,2,False,relaxation;nature;shopping;history;food,autumn,flight,resort
+T0592,56,M,employed,Cultural Explorer,4341.0,151.0,6.0,2.4,1,False,nightlife;culture;food,autumn,car,homestay
+T0593,36,F,employed,Cultural Explorer,8533.0,187.0,7.0,3.3,1,False,history;shopping;culture;food;photography;nature,winter,flight,homestay
+T0594,19,M,student,Leisure & Relaxation,4857.0,148.0,8.0,2.3,3,True,culture;relaxation;history;food;photography,autumn,flight,resort
+T0595,26,M,employed,Adventure Seeker,2555.0,152.0,6.0,3.7,2,False,nightlife;adventure;photography,summer,flight,hotel
+T0596,19,male,student,Cultural Explorer,3743.0,137.0,6.0,4.9,2,False,nature;culture;food;history,spring,train,apartment
+T0597,37,M,employed,Leisure & Relaxation,8263.0,180.0,12.0,1.9,3,True,history;food;relaxation;nature,winter,car,hotel
+T0598,28,F,self-employed,Adventure Seeker,4120.0,160.0,8.0,2.0,2,False,food;nightlife;photography;nature,summer,flight,homestay
+T0599,44,M,unemployed,Cultural Explorer,6166.0,176.0,6.0,1.2,2,False,shopping;adventure;culture;food,summer,train,apartment
+T0600,24,F,employed,Budget Backpacker,1165.0,56.0,16.0,4.5,2,False,adventure;shopping;food;nightlife;relaxation,winter,train,hostel
+T0601,49,F,employed,Family Vacationer,,165.0,2.0,2.6,3,True,shopping;relaxation;nature;history;culture;wildlife,summer,flight,apartment
+T0602,34,F,employed,Leisure & Relaxation,4302.0,136.0,11.0,4.3,2,False,relaxation;culture,spring,flight,hotel
+T0603,32,M,employed,Adventure Seeker,4625.0,109.0,5.0,3.0,2,False,adventure;photography;food,summer,flight,hotel
+T0604,38,F,employed,Cultural Explorer,5122.0,119.0,14.0,4.0,3,True,photography;food;culture;history,autumn,train,homestay
+T0605,20,F ,self-employed,Budget Backpacker,2978.0,60.0,17.0,5.5,2,False,culture;shopping;adventure,summer,train,homestay
+T0606,38,M,employed,Leisure & Relaxation,6351.0,214.0,5.0,2.9,3,False,relaxation;history;food,autumn,car,resort
+T0607,65,M,employed,Leisure & Relaxation,9007.0,41.0,16.0,2.7,3,False,relaxation;food;nature;history,autumn,car,resort
+T0608,20,M,student,Budget Backpacker,2830.0,31.0,9.0,5.5,1,False,culture;adventure;relaxation;food,autumn,bus,homestay
+T0609,43,M,employed,Family Vacationer,7932.0,198.0,5.0,1.1,5,True,wildlife;food;relaxation,summer,flight,resort
+T0610,24,F,employed,Budget Backpacker,1940.0,51.0,14.0,3.5,2,False,nightlife;food,autumn,train,apartment
+T0611,35,M,self-employed,Cultural Explorer,8448.0,209.0,6.0,2.1,2,False,nature;culture;food,summer,flight,resort
+T0612,26,M,self-employed,Family Vacationer,6282.0,194.0,13.0,1.1,6,False,wildlife;culture;adventure;food;relaxation,autumn,flight,apartment
+T0613,36,M,self-employed,Leisure & Relaxation,6081.0,141.0,10.0,2.2,2,False,food;relaxation;shopping;photography,autumn,flight,hotel
+T0614,35,F,employed,Cultural Explorer,7055.0,136.0,8.0,2.5,2,False,food;history;culture;adventure,spring,train,hotel
+T0615,53,M,self-employed,Family Vacationer,6717.0,154.0,6.0,1.5,5,True,wildlife;food;shopping;adventure;culture,summer,flight,apartment
+T0616,28,F,employed,Adventure Seeker,1383.0,105.0,2.0,3.7,2,False,nature;adventure;wildlife;food,autumn,car,hotel
+T0617,20,M,student,Budget Backpacker,1703.0,61.0,3.0,4.4,2,False,nightlife;adventure;nature;culture,summer,flight,hostel
+T0618,18,M,self-employed,Cultural Explorer,5664.0,201.0,13.0,4.0,2,False,food;culture;shopping;photography,autumn,train,apartment
+T0619,48,F,self-employed,Family Vacationer,4102.0,265.0,7.0,1.6,3,True,nature;shopping;relaxation,autumn,bus,resort
+T0620,48,F,employed,Leisure & Relaxation,,203.0,7.0,2.7,3,False,nature;history;photography,summer,flight,resort
+T0621,23,M,employed,Budget Backpacker,3349.0,45.0,16.0,1.8,1,False,adventure;culture;photography;nightlife;nature,summer,bus,hostel
+T0622,38,M,self-employed,Cultural Explorer,5941.0,143.0,,5.3,2,False,food;nature;history,summer,train,hotel
+T0623,20,F,employed,Budget Backpacker,2343.0,54.0,9.0,2.6,2,False,photography;nightlife;adventure,winter,train,homestay
+T0624,26,M,employed,Budget Backpacker,,62.0,5.0,3.1,2,False,nightlife;food;adventure;photography;relaxation,winter,bus,hostel
+T0625,25,M,self-employed,Adventure Seeker,2991.0,146.0,5.0,4.1,3,False,adventure;photography;nature;nightlife,winter,flight,apartment
+T0626,29,F,self-employed,Family Vacationer,7980.0,228.0,5.0,3.0,4,True,food;wildlife;relaxation,spring,flight,hotel
+T0627,21,F,student,Budget Backpacker,2825.0,67.0,16.0,5.9,2,False,adventure;nature,autumn,flight,hostel
+T0628,18,M,employed,Cultural Explorer,3632.0,141.0,6.0,4.7,1,False,history;culture;food;photography;adventure,summer,car,apartment
+T0629,18,M,student,Adventure Seeker,2456.0,134.0,7.0,3.2,3,False,adventure;nightlife;wildlife;nature,winter,car,homestay
+T0630,18,M,student,Budget Backpacker,1110.0,61.0,13.0,4.0,2,False,nightlife;adventure;culture;food;shopping,summer,train,hostel
+T0631,43,F,employed,Leisure & Relaxation,9258.0,239.0,7.0,2.7,3,False,relaxation;nature;shopping;food,summer,car,hotel
+T0632,32,M,self-employed,Adventure Seeker,3483.0,123.0,6.0,4.0,3,False,nightlife;nature;food,summer,train,resort
+T0633,26,M,employed,Budget Backpacker,3169.0,66.0,8.0,6.5,2,False,nightlife;culture;food;adventure;nature,summer,bus,homestay
+T0634,52,F,self-employed,Leisure & Relaxation,6330.0,185.0,10.0,3.3,2,False,relaxation;nightlife;nature;culture,spring,flight,resort
+T0635,42,F,employed,Cultural Explorer,3091.0,122.0,12.0,8.0,2,False,nightlife;food;history;culture;adventure,autumn,flight,hotel
+T0636,39,F,self-employed,Cultural Explorer,5407.0,132.0,5.0,3.7,3,True,food;photography;culture;history;adventure,autumn,train,homestay
+T0637,39,M,employed,Leisure & Relaxation,6237.0,228.0,6.0,2.2,1,False,relaxation;shopping;nature;nightlife,winter,train,apartment
+T0638,37,F ,self-employed,Family Vacationer,3227.0,159.0,2.0,1.0,4,True,history;culture;nature;wildlife,autumn,flight,hotel
+T0639,40,F ,self-employed,Cultural Explorer,5539.0,104.0,5.0,2.1,2,False,culture;shopping;food;nature,autumn,flight,resort
+T0640,62,M,self-employed,Leisure & Relaxation,9417.0,187.0,6.0,3.4,2,False,relaxation;food;culture;history,spring,flight,resort
+T0641,28,M,employed,Budget Backpacker,2787.0,65.0,12.0,5.4,1,False,culture;food;adventure;nightlife,summer,bus,hotel
+T0642,41,M,employed,Family Vacationer,6059.0,225.0,6.0,1.3,6,False,relaxation;nature;adventure;photography;culture;food,summer,train,hotel
+T0643,37,M,self-employed,Adventure Seeker,3967.0,227.0,7.0,4.8,3,True,adventure;food;nature;photography;wildlife;nightlife,winter,flight,homestay
+T0644,45,FEMALE ,employed,Leisure & Relaxation,6693.0,126.0,8.0,3.6,2,False,photography;culture;food;relaxation;nature,autumn,car,hotel
+T0645,54, male,unemployed,Leisure & Relaxation,5826.0,174.0,9.0,3.8,1,False,relaxation;shopping;nature;nightlife;food,winter,flight,hotel
+T0646,22,F ,student,Adventure Seeker,3304.0,167.0,9.0,3.5,3,True,photography;wildlife;adventure;nightlife,autumn,car,homestay
+T0647,27,M,employed,Family Vacationer,,,7.0,1.7,3,True,wildlife;relaxation;culture,summer,car,apartment
+T0648,36,M,employed,Adventure Seeker,4334.0,,7.0,0.9,3,True,nature;adventure;culture;nightlife;shopping,winter,car,hotel
+T0649,32,F,employed,Family Vacationer,8928.0,214.0,6.0,2.8,3,True,wildlife;nature;relaxation,autumn,flight,apartment
+T0650,23,M,student,Budget Backpacker,925.0,52.0,17.0,4.4,2,False,history;relaxation;nature;nightlife,summer,flight,homestay
+T0651,29,M,employed,Leisure & Relaxation,5166.0,277.0,13.0,3.6,3,True,relaxation;shopping;nature;food,winter,flight,resort
+T0652,26,F,employed,Adventure Seeker,3593.0,144.0,11.0,3.9,1,False,adventure;nature;food;culture,winter,flight,hotel
+T0653,44,F,self-employed,Leisure & Relaxation,5697.0,139.0,10.0,2.8,2,False,nature;food;shopping;adventure,summer,train,hotel
+T0654,24,F,employed,Adventure Seeker,3455.0,147.0,9.0,4.4,1,False,adventure;nature;wildlife;nightlife;photography,summer,flight,resort
+T0655,22,F,self-employed,Budget Backpacker,2461.0,46.0,5.0,7.6,4,False,nightlife;nature;food;adventure,summer,flight,hostel
+T0656,24,F,self-employed,Budget Backpacker,2452.0,66.0,3.0,1.4,3,True,nightlife;adventure;nature;culture;photography,summer,bus,hostel
+T0657,45,M,employed,Cultural Explorer,5074.0,117.0,4.0,2.6,2,False,culture;nature;history;photography,autumn,flight,apartment
+T0658,46,M,employed,Family Vacationer,6996.0,194.0,8.0,0.5,3,True,nature;relaxation;food;wildlife,spring,car,hotel
+T0659,24,F,employed,Budget Backpacker,1302.0,65.0,2.0,8.2,2,False,adventure;food;nightlife;culture,summer,train,hostel
+T0660,42,M,employed,Leisure & Relaxation,7057.0,185.0,17.0,4.1,3,True,history;shopping,autumn,flight,resort
+T0661,29,M,employed,Family Vacationer,,172.0,6.0,3.5,5,True,photography;adventure;nature,summer,flight,homestay
+T0662,23,F,student,Budget Backpacker,1486.0,36.0,10.0,4.5,1,False,adventure;shopping;nightlife;culture;history,winter,flight,hostel
+T0663,38,M,employed,Cultural Explorer,6822.0,156.0,8.0,3.7,2,False,food;culture;nature,autumn,flight,apartment
+T0664,39,M,unemployed,Leisure & Relaxation,6584.0,193.0,10.0,2.7,2,False,photography;relaxation;shopping;adventure,summer,flight,resort
+T0665,38,F,employed,Leisure & Relaxation,5852.0,90.0,,2.6,3,True,culture;photography;relaxation,autumn,flight,resort
+T0666,33,M,self-employed,Cultural Explorer,4325.0,195.0,7.0,2.1,2,False,history;food;culture,summer,flight,apartment
+T0667,38,M,self-employed,Family Vacationer,7009.0,200.0,5.0,1.0,5,True,food;adventure;culture;wildlife,summer,car,resort
+T0668,59,M,employed,Leisure & Relaxation,8016.0,239.0,10.0,1.7,2,False,relaxation;food;nightlife;history;culture,spring,flight,hotel
+T0669,22,M,student,Budget Backpacker,2967.0,28.0,9.0,3.0,1,False,nature;adventure;nightlife;photography,spring,bus,hostel
+T0670,23,M,student,Budget Backpacker,1683.0,41.0,8.0,4.2,2,False,photography;culture;nightlife;adventure;food,spring,bus,hostel
+T0671,43,F,employed,Leisure & Relaxation,4941.0,152.0,7.0,3.2,2,False,culture;relaxation;nightlife,summer,car,resort
+T0672,62,F,retired,Leisure & Relaxation,6572.0,141.0,10.0,2.2,2,False,relaxation;food;nature,summer,train,resort
+T0673,38,F,unemployed,Leisure & Relaxation,4608.0,183.0,14.0,0.5,2,False,nightlife;photography;nature;culture,spring,car,hotel
+T0674,28,F,employed,Adventure Seeker,2104.0,145.0,10.0,3.0,2,False,nature;nightlife;photography;food;culture;wildlife,autumn,flight,hotel
+T0675,22,M,student,Budget Backpacker,1935.0,55.0,15.0,6.1,1,False,nature;food;culture,autumn,flight,apartment
+T0676,39,M,unemployed,Family Vacationer,7615.0,180.0,10.0,1.2,4,True,wildlife;nature;adventure,spring,car,hotel
+T0677,28,M,employed,Family Vacationer,4001.0,209.0,7.0,2.1,4,True,nature;culture;history;adventure,spring,car,apartment
+T0678,31,M,unemployed,Leisure & Relaxation,5265.0,204.0,7.0,1.6,1,False,culture;relaxation;nature;wildlife;photography,spring,car,resort
+T0679,35, male,employed,Adventure Seeker,5168.0,113.0,5.0,1.4,1,False,nightlife;adventure;wildlife,summer,car,resort
+T0680,31,F,self-employed,Adventure Seeker,4615.0,,6.0,4.9,2,False,nightlife;culture;wildlife,summer,flight,hostel
+T0681,39,M,employed,Cultural Explorer,2235.0,156.0,5.0,3.4,1,False,food;culture;adventure;photography;nature,winter,flight,homestay
+T0682,40,F,employed,Cultural Explorer,34136.74741623004,211.0,10.0,1.4,1,False,history;photography;culture,spring,flight,apartment
+T0683,29,M,employed,Budget Backpacker,1727.0,42.0,10.0,3.4,2,False,culture;food;shopping;nightlife,winter,flight,hostel
+T0684,28,F,employed,Adventure Seeker,5342.0,135.0,8.0,2.9,2,False,adventure;food;wildlife;nature,spring,car,homestay
+T0685,20,M,self-employed,Budget Backpacker,2322.0,30.0,12.0,6.8,1,False,shopping;adventure;nature;nightlife,autumn,train,hostel
+T0686,41,F,employed,Leisure & Relaxation,6454.0,171.0,,2.3,1,False,food;nature;photography;shopping;nightlife,autumn,flight,resort
+T0687,39,F,self-employed,Family Vacationer,7454.0,205.0,9.0,2.1,4,False,culture;food;wildlife,summer,flight,homestay
+T0688,38,F,unemployed,Adventure Seeker,4398.0,114.0,5.0,4.1,2,False,nightlife;photography;adventure;nature;culture;wildlife,winter,car,apartment
+T0689,21,M,employed,Budget Backpacker,1011.0,59.0,6.0,4.5,2,False,food;nightlife;adventure;shopping,summer,bus,homestay
+T0690,42,M,unemployed,Cultural Explorer,9105.0,139.0,11.0,4.7,2,False,culture;shopping;history,spring,flight,apartment
+T0691,61,F,unemployed,Leisure & Relaxation,4817.0,119.0,6.0,2.7,3,True,nature;photography;food;history,autumn,car,resort
+T0692,39,F,unemployed,Cultural Explorer,4899.0,210.0,8.0,3.7,3,False,relaxation;nightlife;nature;history;photography,spring,train,hotel
+T0693,24,F,employed,Leisure & Relaxation,4791.0,151.0,8.0,2.9,3,False,shopping;nature;food;relaxation,winter,flight,resort
+T0694,42,F,self-employed,Family Vacationer,5001.0,186.0,10.0,1.6,5,True,adventure;nature;wildlife;culture;relaxation;shopping,summer,flight,resort
+T0695,21,M,unemployed,Adventure Seeker,3698.0,85.0,7.0,3.3,3,True,wildlife;culture;photography;food;adventure,spring,car,hostel
+T0696,25,M,employed,Adventure Seeker,5531.0,111.0,9.0,6.0,2,False,adventure;nightlife;food;nature,summer,train,hostel
+T0697,26,M,employed,Budget Backpacker,2943.0,65.0,12.0,8.7,1,False,adventure;nightlife;photography;wildlife;history;food,,flight,resort
+T0698,35,M,employed,Family Vacationer,,155.0,7.0,1.9,3,False,food;adventure;relaxation;nature,spring,car,hotel
+T0699,26,M,employed,Cultural Explorer,5926.0,150.0,6.0,3.4,1,False,culture;adventure;history;nature,summer,car,hostel
+T0700,38,F,employed,Leisure & Relaxation,7240.0,220.0,9.0,5.0,2,False,nature;relaxation;food;nightlife,spring,flight,hotel
+T0701,42,F,employed,Cultural Explorer,6074.0,202.0,12.0,2.2,1,False,food;culture;nature;photography,autumn,car,homestay
+T0702,38,F,employed,Cultural Explorer,5988.0,110.0,3.0,2.9,1,False,culture;shopping;history;food;nature,spring,car,hotel
+T0703,30,F,self-employed,Cultural Explorer,54065.150995688215,130.0,7.0,1.6,3,True,nature;culture;history;food,summer,car,apartment
+T0704,35,M,self-employed,Cultural Explorer,6802.0,175.0,,2.2,3,True,culture;food;photography;nature,summer,flight,hotel
+T0705,28,F,employed,Adventure Seeker,6795.0,110.0,9.0,5.5,1,False,adventure;nightlife;nature;photography,summer,flight,hostel
+T0706,28,F,self-employed,Adventure Seeker,6177.0,140.0,5.0,3.4,3,True,food;photography;nature;wildlife,spring,flight,hostel
+T0707,42,F,unemployed,Family Vacationer,8070.0,235.0,6.0,2.3,3,True,relaxation;nature,spring,flight,resort
+T0708,18,F,student,Cultural Explorer,2967.0,93.0,12.0,3.7,2,False,culture;food;photography,spring,train,resort
+T0709,18,M,student,Adventure Seeker,3960.0,34.0,8.0,3.9,2,False,nightlife;adventure;photography,winter,flight,hotel
+T0710,19,M,student,Budget Backpacker,2722.0,48.0,14.0,1.9,2,False,culture;nightlife;photography;nature,autumn,bus,homestay
+T0711,37,F,employed,Cultural Explorer,1867.0,118.0,5.0,3.2,2,False,culture;adventure;food;relaxation,autumn,flight,apartment
+T0712,41,F,self-employed,Cultural Explorer,7792.0,129.0,7.0,2.8,2,False,history;adventure;culture;food;nightlife,autumn,car,hotel
+T0713,29,F,unemployed,Adventure Seeker,4771.0,141.0,5.0,3.6,1,False,food;adventure;nature;relaxation,summer,train,homestay
+T0714,22,M,student,Adventure Seeker,5557.0,163.0,8.0,3.8,3,True,nightlife;photography;wildlife;culture;adventure;nature,summer,flight,hotel
+T0715,18,F,student,Adventure Seeker,3953.0,148.0,6.0,3.2,1,False,nightlife;photography;adventure;nature,spring,train,hotel
+T0716,26,M,employed,Cultural Explorer,6223.0,129.0,12.0,1.7,1,False,history;culture;photography;food,autumn,flight,hotel
+T0717,36,M,employed,Adventure Seeker,2566.0,158.0,10.0,4.8,3,True,adventure;nightlife;nature;photography,winter,flight,homestay
+T0718,38,M,unemployed,Cultural Explorer,6206.0,174.0,5.0,4.0,1,False,photography;food;history;culture;nature,autumn,train,apartment
+T0719,39,F,employed,Cultural Explorer,5649.0,172.0,10.0,3.1,2,False,nature;culture;nightlife;history;shopping,autumn,train,homestay
+T0720,33,F,employed,Adventure Seeker,4186.0,119.0,9.0,3.3,3,True,adventure;food;nature;photography;nightlife;culture,summer,flight,hostel
+T0721,36,F,employed,Family Vacationer,6756.0,162.0,5.0,3.4,5,False,food;nature;adventure,autumn,flight,resort
+T0722,20,F,student,Budget Backpacker,2904.0,50.0,17.0,2.5,2,False,nightlife;nature;culture;shopping;food,summer,train,homestay
+T0723,34,F,employed,Leisure & Relaxation,5289.0,270.0,4.0,1.6,3,False,culture;food;photography;relaxation;nightlife,summer,train,resort
+T0724,35,M,unemployed,Family Vacationer,3739.0,168.0,3.0,2.6,4,True,food;culture;history,summer,train,hotel
+T0725,24,M,self-employed,Budget Backpacker,1101.0,44.0,12.0,3.9,1,False,food;adventure;shopping;culture;photography,spring,train,apartment
+T0726,32,M,self-employed,Adventure Seeker,3357.0,121.0,6.0,3.3,1,False,nature;relaxation;food,summer,car,homestay
+T0727,22,F,student,Budget Backpacker,3842.0,71.0,16.0,3.9,1,False,adventure;nightlife;photography,winter,bus,hotel
+T0728,32,M,employed,Adventure Seeker,1798.0,206.0,6.0,2.8,2,False,nature;relaxation,autumn,flight,homestay
+T0729,19,F,student,Budget Backpacker,2093.0,64.0,12.0,2.7,2,False,culture;shopping;adventure;nightlife,winter,bus,hostel
+T0730,39,F,self-employed,Family Vacationer,8495.0,183.0,5.0,1.9,4,True,culture;wildlife;nature;relaxation;food,spring,train,apartment
+T0731,24,F,unemployed,Budget Backpacker,1115.0,43.0,2.0,6.9,3,False,photography;nature;food,winter,bus,hostel
+T0732,39,F,self-employed,Family Vacationer,6186.0,148.0,7.0,2.4,4,True,relaxation;adventure;culture;nature,summer,car,resort
+T0733,34,F,employed,Adventure Seeker,3749.0,115.0,8.0,4.2,1,False,adventure;nature;photography,winter,car,hotel
+T0734,25,M,employed,Adventure Seeker,4248.0,105.0,2.0,1.5,3,True,adventure;photography;nature;food,winter,car,apartment
+T0735,26,F,unemployed,Adventure Seeker,1837.0,142.0,11.0,2.9,1,False,wildlife;food;adventure;nature,winter,car,apartment
+T0736,28,M,self-employed,Budget Backpacker,2778.0,61.0,3.0,5.5,1,False,food;nightlife;culture;adventure,autumn,train,homestay
+T0737,23,F,student,Budget Backpacker,3626.0,52.0,9.0,6.2,2,False,relaxation;nightlife;nature;culture,,train,hostel
+T0738,38,M,employed,Leisure & Relaxation,6293.0,169.0,10.0,3.8,2,False,shopping;culture;relaxation,autumn,flight,resort
+T0739,33,F,employed,Leisure & Relaxation,,173.0,10.0,2.5,3,False,food;shopping;photography;nature;relaxation,spring,car,resort
+T0740,40,M,employed,Cultural Explorer,5720.0,107.0,10.0,2.3,1,False,food;nature;culture;history,summer,flight,apartment
+T0741,36,F,self-employed,Cultural Explorer,7244.0,147.0,13.0,3.6,2,False,photography;food;nature,winter,flight,apartment
+T0742,32, male,employed,Adventure Seeker,3605.0,145.0,7.0,1.5,1,False,photography;nature;adventure;food;wildlife,summer,car,hotel
+T0743,39,F,employed,Leisure & Relaxation,6177.0,189.0,10.0,2.4,2,False,relaxation;food;nature;nightlife,autumn,car,resort
+T0744,29,M,employed,Leisure & Relaxation,4933.0,139.0,11.0,3.9,3,True,adventure;history;culture,winter,car,resort
+T0745,30,F ,self-employed,Cultural Explorer,3801.0,141.0,8.0,2.5,1,False,history;relaxation;nightlife;food,autumn,car,homestay
+T0746,53,M,employed,Leisure & Relaxation,8288.0,107.0,8.0,1.4,2,False,shopping;adventure;photography;nightlife;relaxation,winter,car,homestay
+T0747,21,F,employed,Cultural Explorer,4272.0,118.0,7.0,5.3,3,False,history;culture;food;adventure;relaxation,spring,car,hotel
+T0748,45,F,unemployed,Family Vacationer,4176.0,246.0,5.0,1.8,4,True,photography;wildlife;food,autumn,car,apartment
+T0749,23,M,student,Budget Backpacker,2823.0,39.0,19.0,6.1,1,False,adventure;relaxation;shopping,autumn,car,homestay
+T0750,36,M,self-employed,Cultural Explorer,7095.0,151.0,9.0,4.4,2,False,history;culture;food;nightlife;nature,autumn,car,apartment
+T0751,27,F,employed,Adventure Seeker,4664.0,106.0,5.0,6.0,1,False,nature;wildlife;nightlife,autumn,train,hotel
+T0752,51,F,employed,Family Vacationer,5799.0,158.0,6.0,2.0,4,True,nature;culture;adventure;relaxation;wildlife,summer,car,apartment
+T0753,38,F,self-employed,Cultural Explorer,5695.0,128.0,10.0,3.2,3,False,food;nightlife;nature;culture,autumn,flight,apartment
+T0754,24,F,employed,Budget Backpacker,2088.0,63.0,10.0,5.9,3,False,food;nightlife;culture;photography,winter,bus,hostel
+T0755,48,M,employed,Leisure & Relaxation,8387.0,266.0,12.0,1.9,3,False,food;nature;culture;history;adventure;relaxation,spring,,resort
+T0756,21,F,student,Budget Backpacker,1494.0,60.0,15.0,6.5,1,False,relaxation;nature;nightlife;photography;adventure,spring,train,hostel
+T0757,20,F,employed,Budget Backpacker,1595.0,52.0,18.0,3.2,1,False,food;nightlife;wildlife,spring,car,hostel
+T0758,21,F,student,Family Vacationer,72759.25938059184,159.0,7.0,3.3,3,True,relaxation;food;nature;history,autumn,flight,resort
+T0759,20,M,student,Adventure Seeker,2659.0,165.0,4.0,4.0,2,False,photography;relaxation;adventure;nature,autumn,car,homestay
+T0760,50,M,employed,Leisure & Relaxation,6449.0,106.0,10.0,2.1,1,False,food;nature;history;relaxation,summer,flight,resort
+T0761,58,M,employed,Leisure & Relaxation,7913.0,196.0,2.0,3.4,2,False,shopping;food;nightlife;photography;relaxation,summer,flight,resort
+T0762,41,F,employed,Cultural Explorer,7486.0,156.0,8.0,2.4,1,False,adventure;photography;food;history;nightlife;shopping,spring,train,apartment
+T0763,24,F,employed,Budget Backpacker,3142.0,53.0,6.0,6.0,2,False,nightlife;adventure;food;culture;history,spring,train,hostel
+T0764,43,M,employed,Family Vacationer,4742.0,128.0,7.0,1.7,4,True,adventure;relaxation;wildlife;food;photography,summer,car,homestay
+T0765,29,F,employed,Budget Backpacker,2852.0,45.0,2.0,3.0,1,False,nature;nightlife;shopping;food;culture;adventure,summer,car,hostel
+T0766,29,M,employed,Leisure & Relaxation,9468.0,160.0,11.0,3.8,3,True,relaxation;nature;nightlife;food,autumn,flight,apartment
+T0767,30,F,self-employed,Budget Backpacker,2551.0,62.0,10.0,6.8,1,False,food;adventure;photography;nightlife,summer,flight,hotel
+T0768,24,F,unemployed,Budget Backpacker,2494.0,92.0,16.0,2.7,2,False,nightlife;history;nature;culture,spring,bus,hostel
+T0769,31,M,employed,Cultural Explorer,4328.0,162.0,7.0,2.2,3,True,shopping;culture,spring,car,hotel
+T0770,41,M,self-employed,Family Vacationer,6896.0,202.0,7.0,2.8,4,False,adventure;history;culture,spring,flight,hotel
+T0771,33,M,employed,Family Vacationer,,95.0,4.0,2.6,3,True,relaxation;history;wildlife,summer,flight,resort
+T0772,56,M,self-employed,Leisure & Relaxation,9897.0,201.0,4.0,0.8,2,False,relaxation;shopping;photography;culture;nature,summer,flight,resort
+T0773,24,M,employed,Adventure Seeker,6059.0,154.0,5.0,3.4,1,False,adventure;photography;culture,summer,flight,hostel
+T0774,31,F,self-employed,Cultural Explorer,5886.0,131.0,13.0,3.4,3,True,history;culture;food;adventure,summer,car,resort
+T0775,34,F,unemployed,Cultural Explorer,5446.0,37.0,5.0,0.7,1,False,shopping;history;culture;nature,winter,bus,hostel
+T0776,24,M,employed,Budget Backpacker,2058.0,39.0,19.0,5.9,1,False,relaxation;photography;nightlife,autumn,flight,hostel
+T0777,30,F,employed,Family Vacationer,4302.0,241.0,6.0,1.2,3,True,history;photography;relaxation;wildlife,summer,flight,apartment
+T0778,30,M,employed,Adventure Seeker,5197.0,115.0,3.0,4.3,1,False,wildlife;adventure;nature;photography,autumn,car,homestay
+T0779,26,M,employed,Adventure Seeker,4085.0,52.0,9.0,1.0,1,False,nature;adventure;relaxation;nightlife;wildlife;photography,,car,hotel
+T0780,45,F,unemployed,Leisure & Relaxation,5372.0,172.0,10.0,1.5,2,False,relaxation;history;nature;photography,winter,car,resort
+T0781,54,M,employed,Cultural Explorer,4868.0,188.0,6.0,1.5,2,False,food;culture;shopping,autumn,bus,apartment
+T0782,72,M,employed,Leisure & Relaxation,8458.0,210.0,7.0,1.3,1,False,relaxation;food;photography,summer,car,hotel
+T0783,45,F,employed,Leisure & Relaxation,5125.0,140.0,15.0,3.3,2,False,culture;photography,autumn,flight,resort
+T0784,36,F,self-employed,Family Vacationer,4249.0,194.0,10.0,0.5,4,True,nature;culture;wildlife;adventure;relaxation;shopping,summer,flight,hotel
+T0785,51,F,employed,Cultural Explorer,7024.0,160.0,11.0,3.2,1,False,history;culture;photography;nature;shopping,summer,flight,hotel
+T0786,43,F,employed,Family Vacationer,5910.0,238.0,11.0,2.7,4,True,relaxation;adventure;nature,autumn,car,resort
+T0787,33,F,employed,Leisure & Relaxation,3423.0,279.0,11.0,0.5,3,True,food;relaxation;nature;shopping;nightlife;photography,summer,flight,hotel
+T0788,20,F,employed,Budget Backpacker,1143.0,41.0,13.0,7.9,1,False,photography;relaxation;culture;shopping,summer,train,hostel
+T0789,24,M,employed,Budget Backpacker,3599.0,72.0,13.0,3.8,2,False,culture;relaxation;adventure;nightlife,summer,car,hostel
+T0790,37,M,employed,Leisure & Relaxation,2632.0,217.0,9.0,3.9,1,False,relaxation;shopping;history,summer,flight,hotel
+T0791,31,M,employed,Family Vacationer,8243.0,158.0,11.0,2.9,4,True,adventure;relaxation;wildlife;food,autumn,car,resort
+T0792,30,M,unemployed,Leisure & Relaxation,5928.0,132.0,9.0,2.2,1,False,relaxation;shopping;culture;nightlife;wildlife;nature,winter,flight,apartment
+T0793,55,M,employed,Leisure & Relaxation,9003.0,138.0,11.0,3.0,3,True,food;nightlife;culture,autumn,car,hotel
+T0794,33,M,employed,Cultural Explorer,3713.0,,3.0,1.8,1,False,culture;food;adventure;history;shopping,autumn,car,resort
+T0795,19,M,employed,Budget Backpacker,1094.0,53.0,10.0,7.3,2,False,nightlife;nature;relaxation;shopping,winter,car,hostel
+T0796,37,M,employed,Leisure & Relaxation,7396.0,205.0,7.0,3.0,2,False,culture;nature;relaxation;shopping,spring,flight,hotel
+T0797,39,F,employed,Family Vacationer,10629.0,120.0,6.0,0.8,5,True,history;nature,summer,car,hotel
+T0798,29,M,employed,Cultural Explorer,6307.0,187.0,13.0,3.4,2,False,nature;culture;history,spring,flight,resort
+T0799,22,F,student,Adventure Seeker,3414.0,169.0,6.0,1.9,3,True,adventure;nightlife;culture;nature,autumn,flight,hotel
+T0800,37,F,unemployed,Family Vacationer,7910.0,174.0,6.0,2.6,5,True,relaxation;nature;wildlife,summer,flight,apartment
+T0801,36,F,employed,Family Vacationer,5380.0,249.0,,3.5,4,True,nature;wildlife,winter,car,resort
+T0802,49,M,self-employed,Leisure & Relaxation,7060.0,210.0,13.0,4.3,1,False,shopping;relaxation;food;nature,winter,flight,resort
+T0803,41,M,self-employed,Family Vacationer,5252.0,292.0,6.0,0.5,4,True,wildlife;history;relaxation;culture;food,spring,flight,hotel
+T0804,22,F,student,Adventure Seeker,2777.0,153.0,6.0,3.0,2,False,wildlife;adventure;nature,winter,train,hotel
+T0805,36,F,self-employed,Family Vacationer,8592.0,294.0,11.0,1.2,4,True,wildlife;adventure;food;photography;nightlife,summer,flight,apartment
+T0806,22,F,student,Cultural Explorer,5690.0,130.0,8.0,0.9,2,False,shopping;culture;food;nature;photography,autumn,car,hotel
+T0807,33,F,employed,Cultural Explorer,5791.0,163.0,15.0,5.0,3,False,history;culture;shopping;food;adventure;nightlife,summer,flight,hotel
+T0808,41,F,employed,Family Vacationer,10824.0,168.0,6.0,1.4,3,True,nature;food;relaxation,summer,flight,apartment
+T0809,51,M,employed,Leisure & Relaxation,7219.0,202.0,9.0,2.0,2,False,culture;food;relaxation,autumn,car,apartment
+T0810,53,male,employed,Leisure & Relaxation,7586.0,146.0,12.0,3.5,3,True,shopping;food;relaxation;nature;history;culture,spring,flight,hotel
+T0811,28,F,employed,Adventure Seeker,,157.0,5.0,3.4,1,False,adventure;photography;culture,winter,flight,hostel
+T0812,44,M,employed,Cultural Explorer,4852.0,98.0,4.0,2.6,3,False,food;relaxation;history;photography;culture,spring,flight,hotel
+T0813,27,F,employed,Budget Backpacker,2002.0,,4.0,9.6,1,False,culture;food;nightlife;adventure,winter,bus,homestay
+T0814,45,F,employed,Cultural Explorer,5685.0,152.0,8.0,2.8,3,False,culture;nature;adventure;photography,summer,flight,apartment
+T0815,18,male,student,Adventure Seeker,4963.0,113.0,5.0,4.4,2,False,nightlife;adventure;wildlife,summer,flight,hotel
+T0816,19,F,student,Cultural Explorer,6098.0,239.0,8.0,2.4,1,False,food;culture;adventure;shopping,summer,train,apartment
+T0817,22,M,self-employed,Budget Backpacker,1414.0,58.0,8.0,6.9,1,False,photography;adventure;nightlife;food;culture,spring,train,hotel
+T0818,46,M,employed,Family Vacationer,10465.0,233.0,6.0,3.2,4,True,relaxation;nature;wildlife;food;history;culture,autumn,car,apartment
+T0819,48,M,employed,Leisure & Relaxation,4807.0,153.0,11.0,1.5,1,False,culture;relaxation;food;shopping,summer,flight,hotel
+T0820,29,F,employed,Family Vacationer,6058.0,127.0,5.0,1.4,4,True,nature;wildlife;food;culture,summer,flight,hotel
+T0821,33,M,employed,Adventure Seeker,5036.0,188.0,10.0,2.7,2,False,nightlife;photography;wildlife;nature,summer,flight,apartment
+T0822,29,F,employed,Family Vacationer,4399.0,222.0,8.0,2.0,5,True,wildlife;adventure;relaxation;food,summer,flight,resort
+T0823,38,F,employed,Family Vacationer,8408.0,195.0,8.0,1.6,4,True,nature;culture;relaxation;wildlife;adventure,summer,car,resort
+T0824,55,FEMALE ,self-employed,Leisure & Relaxation,4952.0,219.0,5.0,0.9,3,False,relaxation;food;adventure;nightlife,autumn,train,hotel
+T0825,29,M,employed,Adventure Seeker,3808.0,143.0,4.0,3.6,2,False,nature;adventure;photography,spring,flight,resort
+T0826,38,M,employed,Adventure Seeker,4570.0,149.0,6.0,5.3,2,False,relaxation;adventure,winter,flight,homestay
+T0827,30,M,self-employed,Adventure Seeker,5214.0,138.0,5.0,2.1,3,True,nature;photography;adventure;nightlife,summer,flight,hotel
+T0828,35,M,employed,Leisure & Relaxation,,66.0,13.0,2.8,3,True,culture;wildlife,autumn,flight,hotel
+T0829,27,M,employed,Adventure Seeker,2187.0,109.0,5.0,4.0,1,False,nightlife;adventure;relaxation;photography,winter,flight,hotel
+T0830,32,F,employed,Family Vacationer,4543.0,176.0,7.0,1.7,4,True,nature;history;culture,winter,train,resort
+T0831,23,F,student,Budget Backpacker,1806.0,75.0,12.0,4.0,3,True,relaxation;culture;nature,winter,flight,homestay
+T0832,25,F,employed,Budget Backpacker,2168.0,25.0,6.0,6.9,1,False,adventure;history;nightlife;wildlife;nature,autumn,flight,hostel
+T0833,37,F,unemployed,Family Vacationer,6567.0,220.0,8.0,1.2,4,True,nature;adventure;culture,spring,car,hotel
+T0834,38,F,employed,Cultural Explorer,3410.0,149.0,6.0,5.9,3,True,adventure;food;history;relaxation,spring,train,apartment
+T0835,19,F,student,Budget Backpacker,2112.0,51.0,10.0,5.3,1,False,nightlife;photography;culture;adventure,summer,flight,hostel
+T0836,26,F,employed,Adventure Seeker,1573.0,121.0,5.0,3.8,3,False,adventure;photography;nightlife;nature,summer,flight,hostel
+T0837,24,F,employed,Adventure Seeker,2054.0,155.0,9.0,3.0,2,False,nightlife;wildlife;adventure,summer,car,hotel
+T0838,30,F,self-employed,Adventure Seeker,5209.0,129.0,5.0,3.1,1,False,photography;adventure;wildlife;nature;food,summer,train,hotel
+T0839,55,M,employed,Leisure & Relaxation,6568.0,197.0,6.0,1.3,3,True,photography;culture;food;nightlife,summer,train,hotel
+T0840,39,F,employed,Family Vacationer,6754.0,182.0,9.0,1.8,4,True,relaxation;photography;food;adventure;nature,summer,flight,apartment
+T0841,24,M,employed,Family Vacationer,5323.0,129.0,7.0,1.1,6,True,nature;relaxation;wildlife;photography;food,summer,flight,hotel
+T0842,30,F,unemployed,Cultural Explorer,7542.0,141.0,8.0,4.4,3,True,culture;nature;history,autumn,flight,hotel
+T0843,32,M,employed,Adventure Seeker,4300.0,117.0,8.0,3.6,3,True,culture;adventure;wildlife;nature,spring,bus,hotel
+T0844,42, male,employed,Family Vacationer,8573.0,173.0,7.0,1.6,4,True,nature;culture;adventure;photography,summer,flight,hotel
+T0845,29,M,employed,Adventure Seeker,3469.0,105.0,6.0,4.1,2,False,nature;food;photography;nightlife;wildlife,spring,flight,hotel
+T0846,32,M,employed,Family Vacationer,6755.0,217.0,10.0,2.1,5,True,relaxation;history;food;nature,spring,car,apartment
+T0847,43,F,employed,Leisure & Relaxation,3863.0,122.0,10.0,4.2,3,False,history;photography;relaxation;nature,autumn,flight,apartment
+T0848,58,M,employed,Leisure & Relaxation,9068.0,172.0,5.0,2.3,1,False,photography;relaxation;culture;nature;history;food,winter,car,resort
+T0849,51,M,unemployed,Leisure & Relaxation,6390.0,155.0,7.0,2.1,1,False,photography;relaxation;shopping;adventure,autumn,flight,apartment
+T0850,54,M,unemployed,Leisure & Relaxation,8399.0,235.0,9.0,1.6,3,True,shopping;food;culture;relaxation,spring,flight,apartment
+T0851,23,M,student,Adventure Seeker,4123.0,191.0,6.0,3.8,2,False,photography;adventure;wildlife;food,autumn,flight,homestay
+T0852,18,F,student,Budget Backpacker,2449.0,53.0,7.0,4.8,2,False,adventure;photography;food;history;nightlife,spring,bus,hostel
+T0853,23,M,student,Budget Backpacker,1205.0,33.0,12.0,3.2,2,False,nature;culture;food,autumn,flight,homestay
+T0854,35,F,employed,Family Vacationer,9822.0,183.0,10.0,1.5,5,False,food;relaxation;nature,spring,flight,apartment
+T0855,21,M,student,Adventure Seeker,2485.0,135.0,5.0,4.4,2,False,adventure;food;photography,summer,car,hostel
+T0856,27,F,employed,Budget Backpacker,1558.0,87.0,9.0,4.7,1,False,nightlife;culture;nature,spring,train,hostel
+T0857,28,F,employed,Family Vacationer,6565.0,273.0,,3.0,4,True,relaxation;photography;history;nature;wildlife;adventure,summer,car,hotel
+T0858,42,F,employed,Family Vacationer,8259.0,246.0,6.0,2.6,3,True,nature;wildlife;history;relaxation,summer,bus,hotel
+T0859,51,F,self-employed,Leisure & Relaxation,7585.0,145.0,5.0,3.8,2,False,photography;food;shopping,spring,flight,resort
+T0860,41,M,employed,Leisure & Relaxation,4250.0,236.0,2.0,3.7,1,False,relaxation;history;shopping,autumn,flight,resort
+T0861,30,F,unemployed,Adventure Seeker,4423.0,164.0,6.0,3.2,2,False,nightlife;nature;adventure;culture;food,summer,car,apartment
+T0862,40,M,employed,Family Vacationer,8342.0,174.0,5.0,0.5,3,True,history;food;wildlife;adventure,summer,flight,hotel
+T0863,21,M,student,Budget Backpacker,1889.0,65.0,14.0,8.1,3,True,culture;adventure;photography;nature;food,summer,car,homestay
+T0864,18,M,student,Budget Backpacker,18034.115017949294,74.0,12.0,9.5,3,False,relaxation;culture;shopping;history;photography,summer,bus,homestay
+T0865,20,F,student,Budget Backpacker,1372.0,61.0,19.0,6.0,2,False,wildlife;nightlife;culture;photography;nature,winter,bus,hostel
+T0866,29,M,self-employed,Adventure Seeker,5722.0,119.0,2.0,3.8,2,False,nature;adventure;wildlife;nightlife;shopping;photography,summer,car,hotel
+T0867,38,F,employed,Family Vacationer,4415.0,174.0,7.0,2.3,4,True,nature;wildlife;food;photography,autumn,car,hotel
+T0868,36,M,employed,Family Vacationer,4299.0,136.0,4.0,0.5,5,True,nightlife;wildlife;adventure;food;nature,spring,car,apartment
+T0869,31,M,employed,Adventure Seeker,2927.0,198.0,3.0,5.0,3,True,adventure;photography;wildlife;nature,spring,flight,apartment
+T0870,29,M,unemployed,Budget Backpacker,881.0,55.0,13.0,2.9,2,False,adventure;photography;relaxation,summer,train,homestay
+T0871,30,M,employed,Family Vacationer,5888.0,194.0,6.0,2.3,4,True,photography;food;nature;culture,autumn,car,apartment
+T0872,37,F,employed,Family Vacationer,6425.0,241.0,7.0,2.3,4,True,adventure;photography;relaxation,spring,car,resort
+T0873,35,F,employed,Family Vacationer,3870.0,191.0,7.0,2.8,3,True,relaxation;wildlife;history;shopping,summer,car,hotel
+T0874,22,M,student,Budget Backpacker,800.0,80.0,10.0,3.6,2,False,photography;food;adventure;nature,summer,flight,homestay
+T0875,44,M,employed,Leisure & Relaxation,4594.0,195.0,6.0,1.9,3,False,nature;relaxation;food;shopping,winter,car,hotel
+T0876,50,F ,employed,Leisure & Relaxation,7132.0,105.0,14.0,0.5,3,True,nature;food;relaxation;photography;nightlife,winter,flight,resort
+T0877,19,F,student,Cultural Explorer,4955.0,130.0,3.0,2.5,2,False,food;history;nature;culture;photography,winter,flight,apartment
+T0878,29,F,employed,Leisure & Relaxation,7448.0,253.0,7.0,3.6,4,True,nature;food;adventure;shopping,spring,car,apartment
+T0879,27,M,unemployed,Leisure & Relaxation,6468.0,163.0,6.0,3.3,2,False,relaxation;nightlife;culture,spring,flight,hotel
+T0880,18,F,student,Adventure Seeker,2327.0,149.0,6.0,2.7,3,True,photography;adventure;nightlife;wildlife,winter,flight,hostel
+T0881,18,M,student,Budget Backpacker,944.0,,16.0,4.0,3,False,nature;culture;photography;nightlife;wildlife,winter,train,hostel
+T0882,35,F,employed,Family Vacationer,8890.0,210.0,5.0,1.8,4,True,culture;relaxation;nature;history;food;adventure,spring,car,resort
+T0883,39,F,employed,Leisure & Relaxation,5817.0,71.0,7.0,3.4,3,False,shopping;culture;relaxation;food,spring,flight,resort
+T0884,24,M,self-employed,Adventure Seeker,4523.0,161.0,6.0,3.0,2,False,photography;nature;adventure;food;nightlife;wildlife,summer,car,apartment
+T0885,30,M,employed,Leisure & Relaxation,3428.0,177.0,6.0,3.0,2,False,photography;relaxation;food;history,,car,hotel
+T0886,24,M,unemployed,Budget Backpacker,2403.0,29.0,11.0,4.5,1,False,adventure;relaxation;photography;nightlife;wildlife,spring,train,hotel
+T0887,34,M,employed,Family Vacationer,7134.0,229.0,9.0,1.0,3,True,culture;adventure;relaxation;photography;nature,summer,flight,apartment
+T0888,34,F,employed,Family Vacationer,9240.0,197.0,4.0,1.4,5,True,nature;relaxation;adventure;wildlife,summer,flight,resort
+T0889,36,M,employed,Cultural Explorer,4758.0,188.0,11.0,3.3,3,True,food;nature;history;relaxation,autumn,car,hotel
+T0890,41,F,employed,Adventure Seeker,4183.0,193.0,6.0,4.1,3,False,nature;food;adventure;photography;nightlife,spring,flight,homestay
+T0891,64,F,unemployed,Leisure & Relaxation,7734.0,163.0,4.0,2.6,3,True,nature;relaxation;shopping;food,summer,bus,resort
+T0892,37,M,employed,Family Vacationer,4668.0,69.0,6.0,1.4,4,True,history;wildlife;nature,summer,car,hotel
+T0893,21,M,student,Budget Backpacker,1288.0,40.0,7.0,5.5,2,False,adventure;nature;culture;nightlife;food;photography,winter,bus,apartment
+T0894,33,M,employed,Cultural Explorer,3894.0,168.0,9.0,6.8,3,False,photography;history;nature;food,winter,flight,hotel
+T0895,18,F,student,Budget Backpacker,2292.0,72.0,8.0,3.7,1,False,nature;food;shopping,autumn,flight,hostel
+T0896,50,M,unemployed,Leisure & Relaxation,5701.0,196.0,14.0,1.9,3,True,food;relaxation;wildlife;nightlife;nature,spring,car,apartment
+T0897,34,F,employed,Family Vacationer,7060.0,82.0,7.0,2.4,4,True,relaxation;nature;food;culture;adventure,autumn,car,hotel
+T0898,38,F,employed,Adventure Seeker,4473.0,166.0,8.0,3.2,1,False,adventure;photography;nature;wildlife,spring,train,hotel
+T0899,40,F,self-employed,Cultural Explorer,5902.0,152.0,11.0,1.5,2,False,nature;food;history;culture;shopping;photography,spring,train,hotel
+T0900,36,F,self-employed,Leisure & Relaxation,5258.0,197.0,8.0,0.8,3,False,adventure;shopping;history;culture,spring,train,hotel
+T0901,26,M,employed,Cultural Explorer,3718.0,179.0,11.0,1.3,2,False,culture;food;shopping;adventure,autumn,train,homestay
+T0902,39,M,self-employed,Cultural Explorer,35993.59386370196,183.0,11.0,1.8,3,True,history;photography;food;culture;adventure;nightlife,winter,train,hotel
+T0903,36,M,self-employed,Cultural Explorer,7641.0,140.0,8.0,2.0,3,False,culture;adventure;history;shopping,summer,bus,hostel
+T0904,41,M,employed,Leisure & Relaxation,6107.0,167.0,11.0,1.7,3,False,relaxation;history;culture;nightlife,spring,bus,apartment
+T0905,40,F,employed,Leisure & Relaxation,6225.0,258.0,,2.5,3,True,food;relaxation;photography;shopping,autumn,train,hotel
+T0906,18,F,student,Budget Backpacker,2048.0,51.0,13.0,4.0,3,True,adventure;nightlife;history;photography;relaxation;culture,summer,bus,homestay
+T0907,36,M,employed,Leisure & Relaxation,7020.0,148.0,7.0,2.9,2,False,photography;relaxation;food;nature,spring,flight,homestay
+T0908,42,M,self-employed,Leisure & Relaxation,4754.0,148.0,8.0,3.4,2,False,shopping;adventure;relaxation;food;nature,spring,flight,hotel
+T0909,37,F,employed,Family Vacationer,7372.0,247.0,5.0,1.4,5,True,history;photography;culture,summer,flight,apartment
+T0910,24,M,employed,Adventure Seeker,4087.0,121.0,6.0,3.1,1,False,adventure;nightlife;nature;food,spring,train,hostel
+T0911,50,M,self-employed,Family Vacationer,7576.0,217.0,10.0,2.0,4,True,photography;food;adventure,summer,car,apartment
+T0912,34,M,self-employed,Leisure & Relaxation,6525.0,164.0,6.0,2.3,2,False,relaxation;nature;culture;photography,summer,flight,apartment
+T0913,37,F,self-employed,Adventure Seeker,5022.0,,10.0,1.8,1,False,wildlife;adventure;food;nature,winter,car,hotel
+T0914,36,male,self-employed,Family Vacationer,6024.0,233.0,5.0,2.1,4,True,photography;food;wildlife;nature;relaxation;adventure,winter,car,hotel
+T0915,24,M,employed,Budget Backpacker,1514.0,25.0,14.0,3.2,2,False,photography;relaxation;food;culture;adventure,autumn,bus,homestay
+T0916,20,male,student,Adventure Seeker,7202.0,54.0,5.0,3.4,1,False,adventure;nightlife;nature;wildlife,summer,car,homestay
+T0917,43,F,employed,Leisure & Relaxation,3718.0,208.0,4.0,3.9,2,False,relaxation;nature;photography;culture,spring,car,hotel
+T0918,40,M,employed,Cultural Explorer,8022.0,157.0,9.0,2.9,1,False,shopping;culture;photography,winter,train,resort
+T0919,24,F,employed,Budget Backpacker,1538.0,75.0,6.0,7.3,1,False,nightlife;food;culture;nature;photography;shopping,summer,flight,apartment
+T0920,46,M,employed,Family Vacationer,6560.0,196.0,5.0,0.5,4,True,relaxation;wildlife;food;adventure;culture;nature,autumn,flight,hotel
+T0921,18,M,student,Adventure Seeker,5169.0,171.0,4.0,1.5,3,False,nature;nightlife;adventure;photography;culture,winter,flight,homestay
+T0922,20,F,student,Budget Backpacker,2889.0,70.0,12.0,3.9,3,True,nature;nightlife;food;adventure;photography,summer,bus,hotel
+T0923,30,F,employed,Adventure Seeker,4804.0,179.0,6.0,4.0,2,False,photography;wildlife;nature,summer,flight,resort
+T0924,43,FEMALE ,self-employed,Leisure & Relaxation,5863.0,171.0,5.0,0.8,2,False,nature;relaxation,summer,flight,resort
+T0925,38,F,employed,Cultural Explorer,4519.0,177.0,8.0,3.0,2,False,nightlife;food;culture;relaxation,spring,train,apartment
+T0926,24,F,employed,Adventure Seeker,4344.0,143.0,9.0,4.0,2,False,wildlife;photography;adventure;relaxation;culture;nightlife,summer,car,hotel
+T0927,42,F,employed,Cultural Explorer,3632.0,172.0,14.0,2.0,2,False,nature;photography;history;culture;nightlife,summer,flight,hostel
+T0928,49,F,employed,Leisure & Relaxation,9641.0,179.0,13.0,1.6,3,True,shopping;relaxation;food;nature;culture;photography,summer,car,homestay
+T0929,54,M,employed,Leisure & Relaxation,,201.0,11.0,2.6,3,True,adventure;history;photography;relaxation;nature,autumn,flight,resort
+T0930,34,M,employed,Adventure Seeker,5612.0,155.0,6.0,4.3,1,False,nature;nightlife;wildlife;food;adventure;photography,summer,flight,hotel
+T0931,32,F,unemployed,Family Vacationer,6021.0,,8.0,1.8,3,True,food;relaxation;nightlife;culture,summer,flight,resort
+T0932,21,F,student,Budget Backpacker,1471.0,43.0,2.0,3.4,1,False,food;adventure;nightlife;photography;nature;culture,winter,flight,homestay
+T0933,21,F,student,Budget Backpacker,2235.0,83.0,18.0,7.0,1,False,adventure;nature;food,spring,train,hostel
+T0934,44,M,self-employed,Family Vacationer,8990.0,289.0,7.0,1.5,5,True,nature;wildlife;relaxation;food,autumn,car,hotel
+T0935,35,M,employed,Family Vacationer,9090.0,207.0,7.0,3.0,3,True,nature;history;wildlife,summer,car,resort
+T0936,20,M,student,Budget Backpacker,1564.0,,11.0,6.2,2,False,shopping;adventure;nightlife;history;photography,spring,train,hostel
+T0937,48,F,employed,Family Vacationer,7342.0,179.0,12.0,1.6,3,True,adventure;relaxation;nature;culture;photography,summer,car,resort
+T0938,18,F,student,Cultural Explorer,6097.0,178.0,2.0,3.7,2,False,food;culture;photography;shopping,autumn,train,hotel
+T0939,19,M,employed,Adventure Seeker,4081.0,111.0,6.0,1.7,1,False,nature;photography;adventure;culture;food,spring,car,resort
+T0940,38,F,self-employed,Adventure Seeker,5174.0,119.0,4.0,4.0,1,False,adventure;photography;wildlife;nightlife;nature;culture,summer,car,hostel
+T0941,29,M,self-employed,Adventure Seeker,4937.0,70.0,9.0,3.2,3,True,adventure;culture;wildlife;nature,summer,flight,hostel
+T0942,41,M,employed,Leisure & Relaxation,5328.0,300.0,5.0,3.0,2,False,relaxation;photography;food,autumn,train,hotel
+T0943,29,F,employed,Adventure Seeker,4946.0,190.0,7.0,5.1,3,True,relaxation;photography;adventure;nightlife,winter,car,hotel
+T0944,51,F,unemployed,Leisure & Relaxation,5445.0,230.0,6.0,4.8,2,False,food;nature;relaxation,spring,car,resort
+T0945,20,M,unemployed,Adventure Seeker,800.0,150.0,7.0,4.2,2,False,adventure;nightlife,winter,car,hotel
+T0946,47,F,self-employed,Cultural Explorer,6533.0,,9.0,3.3,2,False,food;photography;culture;history;nature,winter,train,hotel
+T0947,44,M,employed,Leisure & Relaxation,7245.0,152.0,8.0,3.2,3,True,nightlife;relaxation;food;shopping,spring,car,resort
+T0948,23,male,student,Family Vacationer,4818.0,102.0,10.0,1.6,4,False,wildlife;adventure;nature;food,spring,flight,hotel
+T0949,45,F,employed,Cultural Explorer,5369.0,120.0,10.0,1.5,2,False,history;nature;food;photography,autumn,flight,hotel
+T0950,42,F,employed,Cultural Explorer,3518.0,121.0,9.0,0.5,2,False,nature;food;history,spring,flight,hotel
+T0951,32,M,employed,Adventure Seeker,4069.0,128.0,5.0,3.7,3,False,adventure;nature;food;photography;nightlife,spring,car,hotel
+T0952,26,F,self-employed,Family Vacationer,6221.0,291.0,8.0,2.8,4,True,history;wildlife;nature;relaxation;adventure,summer,car,hotel
+T0953,65,M,retired,Leisure & Relaxation,6598.0,130.0,8.0,3.1,2,False,nature;food;photography;culture;history,winter,flight,hotel
+T0954,25,F,employed,Adventure Seeker,5818.0,138.0,,3.8,1,False,photography;nightlife;adventure;wildlife,winter,flight,homestay
+T0955,18,F,student,Cultural Explorer,1565.0,113.0,10.0,2.9,3,False,shopping;history;food;culture;photography,spring,flight,hotel
+T0956,34,M,self-employed,Cultural Explorer,5716.0,234.0,6.0,5.0,2,False,nature;culture;photography;history;adventure,autumn,bus,hotel
+T0957,27,M,employed,Cultural Explorer,5418.0,132.0,10.0,2.9,2,False,nightlife;food;culture;history,autumn,train,resort
+T0958,34,F ,employed,Family Vacationer,6839.0,142.0,6.0,1.9,5,False,nature;adventure;food;relaxation,autumn,car,resort
+T0959,42,F,employed,Family Vacationer,6945.0,,7.0,1.0,5,True,nature;wildlife;history;adventure;culture;relaxation,autumn,,resort
+T0960,34,F,unemployed,Family Vacationer,8643.0,190.0,4.0,2.7,4,True,wildlife;relaxation;culture;nature,spring,car,homestay
+T0961,41,F,employed,Leisure & Relaxation,7492.0,171.0,12.0,1.7,2,False,nature;wildlife;food;culture;relaxation,summer,flight,apartment
+T0962,40,M,employed,Cultural Explorer,3008.0,183.0,9.0,4.2,3,True,adventure;history,autumn,car,apartment
+T0963,36,M,employed,Cultural Explorer,3805.0,154.0,2.0,4.0,2,False,nature;culture;photography,winter,flight,hostel
+T0964,24,M,employed,Adventure Seeker,4830.0,90.0,6.0,3.4,2,False,food;adventure;nature,winter,car,hostel
+T0965,25,M,employed,Adventure Seeker,3614.0,180.0,9.0,5.1,2,False,photography;nightlife;adventure;food;nature;wildlife,summer,car,hotel
+T0966,37,F,employed,Cultural Explorer,5492.0,120.0,8.0,3.9,2,False,photography;culture;food;nature;shopping,autumn,flight,hostel
+T0967,30,F,self-employed,Cultural Explorer,5678.0,105.0,9.0,3.3,3,False,nature;food;history;photography;culture,summer,car,hostel
+T0968,29,F,employed,Adventure Seeker,3620.0,118.0,5.0,3.5,1,False,photography;culture;adventure;food;wildlife,spring,flight,hostel
+T0969,24,F,employed,Budget Backpacker,2254.0,65.0,8.0,9.3,2,False,food;culture;adventure,summer,flight,hostel
+T0970,53,M,employed,Leisure & Relaxation,7798.0,131.0,11.0,3.1,3,True,food;relaxation;photography;nightlife,spring,flight,resort
+T0971,20,M,employed,Budget Backpacker,2068.0,53.0,8.0,4.1,2,False,nightlife;nature;food,summer,bus,hostel
+T0972,33,F,employed,Family Vacationer,3401.0,166.0,8.0,2.2,4,True,culture;nightlife;wildlife;nature,summer,flight,resort
+T0973,43,F,employed,Cultural Explorer,5807.0,151.0,6.0,3.7,1,False,culture;photography;food;nature,spring,train,apartment
+T0974,44,M,employed,Family Vacationer,7116.0,175.0,10.0,0.5,3,True,adventure;wildlife;nature,summer,train,resort
+T0975,39,F,employed,Leisure & Relaxation,5857.0,179.0,6.0,2.5,3,False,relaxation;nature;food;culture;nightlife,autumn,flight,resort
+T0976,26,F,unemployed,Budget Backpacker,2609.0,47.0,18.0,4.2,2,False,nightlife;food,winter,bus,hostel
+T0977,25,M,unemployed,Adventure Seeker,6209.0,163.0,7.0,2.3,3,False,nightlife;adventure;nature;wildlife;photography,summer,flight,hostel
+T0978,24,M,employed,Adventure Seeker,5034.0,78.0,2.0,1.7,2,False,nature;adventure;culture;photography;nightlife;food,,car,hotel
+T0979,46,F,employed,Cultural Explorer,5512.0,163.0,7.0,3.5,1,False,shopping;culture;photography;food,summer,car,hotel
+T0980,24,M,employed,Budget Backpacker,2845.0,53.0,8.0,1.6,3,False,adventure;culture;relaxation,winter,train,hostel
+T0981,41,F,employed,Cultural Explorer,5862.0,134.0,4.0,3.4,2,False,history;food;culture,winter,car,homestay
+T0982,37,F,employed,Family Vacationer,6825.0,132.0,4.0,1.4,4,True,culture;photography;adventure;relaxation;wildlife,summer,flight,resort
+T0983,32,F,unemployed,Leisure & Relaxation,5681.0,209.0,14.0,1.8,1,False,relaxation;nature;food,autumn,car,hotel
+T0984,42,F,self-employed,Leisure & Relaxation,8998.0,227.0,10.0,2.4,1,False,photography;relaxation;culture;nature;shopping,summer,flight,apartment
+T0985,43,F,employed,Family Vacationer,6196.0,209.0,8.0,3.1,4,False,wildlife;relaxation;nature;history,autumn,car,hotel
+T0986,40,F,employed,Cultural Explorer,5425.0,153.0,11.0,1.0,3,False,history;photography;shopping;culture,autumn,train,resort
+T0987,42,M,employed,Family Vacationer,6403.0,248.0,8.0,2.8,4,True,nature;adventure;food;history;relaxation;wildlife,autumn,flight,apartment
+T0988,31,F,employed,Adventure Seeker,4156.0,162.0,8.0,4.4,2,False,wildlife;nature;adventure,summer,car,hostel
+T0989,49,M,employed,Family Vacationer,6901.0,237.0,5.0,1.9,4,True,nature;relaxation;adventure;wildlife;food;history,summer,bus,apartment
+T0990,44,M,employed,Family Vacationer,5483.0,156.0,6.0,0.5,4,True,adventure;culture;food,summer,car,hotel
+T0991,40,F,employed,Leisure & Relaxation,6029.0,137.0,4.0,1.9,3,True,nature;history;relaxation;adventure;nightlife,autumn,car,resort
+T0992,26,M,employed,Cultural Explorer,4557.0,102.0,6.0,1.1,3,False,history;adventure;photography,summer,car,apartment
+T0993,23,F,student,Adventure Seeker,3608.0,149.0,,3.1,2,False,adventure;nature;relaxation;wildlife,summer,train,homestay
+T0994,39,M,employed,Leisure & Relaxation,8287.0,156.0,8.0,1.5,2,False,nature;history;relaxation;photography,summer,flight,hotel
+T0995,39,F,employed,Cultural Explorer,5443.0,126.0,8.0,3.2,2,False,culture;history;nature;adventure,spring,,apartment
+T0996,19,M,employed,Budget Backpacker,2461.0,44.0,13.0,6.2,1,False,adventure;food;nature;culture,autumn,flight,hostel
+T0997,42,M,employed,Leisure & Relaxation,5167.0,220.0,11.0,3.4,2,False,shopping;culture;relaxation;nightlife,spring,flight,hotel
+T0998,43,M,self-employed,Leisure & Relaxation,5396.0,243.0,5.0,1.6,1,False,relaxation;adventure;nightlife;photography;history,autumn,flight,resort
+T0999,24,F,unemployed,Cultural Explorer,6858.0,180.0,9.0,2.9,3,True,nature;adventure,summer,train,homestay
+T1000,32,M,self-employed,Cultural Explorer,6204.0,177.0,12.0,1.8,3,False,food;culture;adventure,autumn,flight,hostel
+T1001,49,F ,employed,Leisure & Relaxation,4886.0,219.0,14.0,1.6,2,False,photography;nature;food;relaxation,winter,flight,resort
+T1002,22,F,student,Adventure Seeker,4498.0,145.0,4.0,2.5,2,False,nightlife;photography;adventure;nature,autumn,car,hotel
+T1003,23,M,student,Adventure Seeker,4425.0,165.0,8.0,3.1,2,False,food;wildlife;shopping,spring,car,hotel
+T1004,27,F,employed,Family Vacationer,4070.0,229.0,6.0,0.8,4,True,nature;wildlife;photography,summer,car,apartment
+T1005,34,M,employed,Adventure Seeker,5526.0,171.0,10.0,3.2,1,False,wildlife;relaxation;adventure;nightlife;food,summer,flight,hotel
+T1006,26,M,employed,Family Vacationer,7661.0,170.0,11.0,1.7,4,True,nature;relaxation;adventure,spring,flight,resort
+T1007,39,F,unemployed,Family Vacationer,1969.0,238.0,6.0,1.2,5,True,food;wildlife;nature;adventure,summer,car,apartment
+T1008,45,M,unemployed,Family Vacationer,5253.0,122.0,9.0,1.9,4,True,wildlife;adventure;culture;nature,summer,train,apartment
+T1009,28,F,employed,Cultural Explorer,6858.0,182.0,3.0,0.5,2,False,photography;food;culture;history,autumn,car,apartment
+T1010,44,F,self-employed,Family Vacationer,7349.0,182.0,7.0,1.3,4,False,adventure;relaxation;nature,summer,car,hotel
+T1011,26,M,self-employed,Family Vacationer,4970.0,151.0,6.0,3.1,4,True,relaxation;culture,summer,flight,resort
+T1012,22,F,student,Adventure Seeker,4397.0,225.0,7.0,2.3,3,True,adventure;nature;photography;nightlife,autumn,flight,hostel
+T1013,32,F,unemployed,Adventure Seeker,4736.0,129.0,5.0,2.1,2,False,nightlife;adventure;nature;wildlife,summer,flight,homestay
+T1014,42,F,employed,Family Vacationer,5519.0,193.0,5.0,1.7,3,False,culture;adventure;wildlife;relaxation;history,autumn,flight,homestay
+T1015,23,M,student,Budget Backpacker,2898.0,36.0,14.0,4.2,1,False,nature;culture;food,winter,train,hostel
+T1016,44,M,employed,Family Vacationer,6208.0,258.0,6.0,1.0,5,True,nature;photography;relaxation;nightlife;wildlife,autumn,flight,apartment
+T1017,33,F,employed,Family Vacationer,3481.0,266.0,10.0,1.2,4,True,shopping;food;wildlife,summer,flight,apartment
+T1018,24, male,self-employed,Budget Backpacker,3031.0,63.0,8.0,8.0,1,False,adventure;culture,summer,train,homestay
+T1019,24,M,employed,Adventure Seeker,5600.0,62.0,10.0,3.3,1,False,adventure;shopping,summer,car,hotel
+T1020,29,F,unemployed,Family Vacationer,7659.0,204.0,,1.6,4,True,nature;wildlife;shopping;culture,autumn,flight,hotel
+T1021,32,F,unemployed,Family Vacationer,5052.0,202.0,9.0,1.0,3,True,culture;nature;wildlife;relaxation;photography,autumn,flight,hotel
+T1022,18,M,student,Adventure Seeker,2289.0,100.0,8.0,4.0,2,False,wildlife;nature;relaxation,spring,,hostel
+T1023,27,F,employed,Budget Backpacker,3257.0,,16.0,0.5,1,False,nightlife;photography;food;shopping,winter,train,apartment
+T1024,25,M,employed,Budget Backpacker,26712.957553112672,87.0,14.0,6.7,1,False,food;nightlife;adventure;relaxation,,car,apartment
+T1025,37,male,unemployed,Adventure Seeker,3153.0,114.0,3.0,4.2,2,False,nature;adventure;culture;photography;food,spring,car,homestay
+T1026,39,M,employed,Cultural Explorer,3487.0,211.0,15.0,1.8,1,False,history;relaxation;culture,spring,flight,apartment
+T1027,24,M,employed,Adventure Seeker,4231.0,115.0,6.0,4.3,2,False,nature;adventure;photography;nightlife;relaxation,summer,flight,hotel
+T1028,40,M,employed,Adventure Seeker,4079.0,170.0,5.0,2.8,3,True,nightlife;adventure;wildlife;nature;food;culture,summer,train,homestay
+T1029,35,F,employed,Cultural Explorer,4930.0,104.0,9.0,3.9,2,False,photography;food;culture,spring,flight,apartment
+T1030,37,M,self-employed,Adventure Seeker,5790.0,137.0,5.0,5.4,2,False,adventure;food;nature,winter,bus,hotel
+T1031,27,F,unemployed,Adventure Seeker,2740.0,132.0,5.0,3.6,2,False,photography;wildlife;nightlife;nature,,flight,apartment
+T1032,22,M,employed,Budget Backpacker,1839.0,61.0,17.0,6.0,2,False,adventure;culture,summer,flight,homestay
+T1033,46,M,employed,Family Vacationer,9860.0,211.0,7.0,1.8,6,True,wildlife;history,spring,car,apartment
+T1034,22,F,student,Budget Backpacker,2260.0,62.0,6.0,4.8,1,False,nightlife;food;adventure;nature,winter,train,homestay
+T1035,50,F,employed,Leisure & Relaxation,8499.0,199.0,7.0,3.6,3,False,food;relaxation,winter,car,resort
+T1036,57,M,employed,Leisure & Relaxation,7084.0,97.0,7.0,0.9,1,False,photography;relaxation;culture;shopping;nature,autumn,bus,resort
+T1037,33,F,self-employed,Adventure Seeker,4975.0,194.0,5.0,3.2,2,False,adventure;nature;food;photography,autumn,train,hotel
+T1038,20,F,student,Budget Backpacker,1343.0,40.0,16.0,7.7,2,False,food;adventure,summer,car,hostel
+T1039,35,M,employed,Leisure & Relaxation,8477.0,218.0,14.0,3.9,1,False,food;relaxation;shopping;culture,winter,train,resort
+T1040,27,FEMALE ,employed,Budget Backpacker,2631.0,42.0,14.0,5.6,2,False,nature;adventure;relaxation,summer,flight,hotel
+T1041,32,F,unemployed,Adventure Seeker,7339.0,183.0,7.0,2.0,1,False,food;wildlife;adventure,summer,flight,hotel
+T1042,25,F,employed,Adventure Seeker,5396.0,181.0,5.0,2.7,2,False,nature;nightlife,summer,train,homestay
+T1043,33,F,self-employed,Adventure Seeker,,128.0,8.0,4.9,1,False,adventure;wildlife;nature,,car,hotel
+T1044,48,M,employed,Family Vacationer,6296.0,193.0,7.0,1.2,5,True,adventure;history;nature;culture,spring,bus,resort
+T1045,40,F,self-employed,Adventure Seeker,7438.0,50.0,7.0,3.5,2,False,adventure;food;nature;wildlife,summer,flight,hostel
+T1046,20,F,employed,Budget Backpacker,1768.0,74.0,17.0,6.0,2,False,food;photography,autumn,train,hostel
+T1047,48,F,employed,Family Vacationer,6563.0,270.0,8.0,3.0,4,True,wildlife;nature;food;relaxation,spring,flight,hotel
+T1048,29,M,employed,Leisure & Relaxation,5736.0,166.0,11.0,4.9,2,False,food;relaxation;shopping;history;nature,summer,flight,resort
+T1049,26,M,employed,Adventure Seeker,3630.0,141.0,7.0,2.9,1,False,photography;nature;nightlife;adventure;food,summer,flight,apartment
+T1050,57,M,employed,Cultural Explorer,6825.0,109.0,,3.1,2,False,photography;culture,summer,train,homestay
+T1051,53,FEMALE ,employed,Leisure & Relaxation,7191.0,153.0,13.0,3.6,1,False,food;nightlife;relaxation,winter,car,hotel
+T1052,46,F,employed,Leisure & Relaxation,6804.0,128.0,4.0,2.6,3,True,nature;relaxation;shopping;photography;food,spring,car,resort
+T1053,39,M,unemployed,Cultural Explorer,3161.0,133.0,5.0,2.9,2,False,nightlife;shopping,autumn,train,apartment
+T1054,36,F,employed,Adventure Seeker,3234.0,135.0,4.0,4.5,2,False,culture;wildlife;adventure;nightlife;nature,summer,car,hotel
+T1055,30,M,employed,Budget Backpacker,2602.0,71.0,15.0,5.6,1,False,nature;shopping;food;history;culture,spring,bus,hostel
+T1056,44,M,employed,Family Vacationer,6392.0,228.0,6.0,1.3,4,True,relaxation;food;adventure;nature;history,winter,flight,apartment
+T1057,31,F,employed,Adventure Seeker,4953.0,160.0,4.0,4.8,2,False,nature;nightlife;adventure;photography,summer,car,hotel
+T1058,34,F,unemployed,Adventure Seeker,4915.0,81.0,5.0,3.5,2,False,photography;adventure;relaxation;nature,winter,bus,hotel
+T1059,58,F,unemployed,Cultural Explorer,6513.0,146.0,10.0,4.7,1,False,food;culture;photography;history,winter,flight,apartment
+T1060,37,M,self-employed,Cultural Explorer,7923.0,236.0,10.0,4.6,3,False,history;photography;culture;nature;shopping,winter,car,homestay
+T1061,18,F,student,Budget Backpacker,,37.0,5.0,9.0,1,False,nightlife;adventure;food;culture,winter,bus,hostel
+T1062,26,F,employed,Budget Backpacker,2578.0,62.0,8.0,9.0,2,False,nightlife;nature,summer,bus,hostel
+T1063,26,M,employed,Cultural Explorer,3203.0,214.0,13.0,2.6,3,False,culture;history;photography,spring,car,hotel
+T1064,50,M,self-employed,Cultural Explorer,3616.0,210.0,4.0,4.1,2,False,photography;nature;culture;food,summer,bus,homestay
+T1065,34,M,unemployed,Leisure & Relaxation,5991.0,154.0,11.0,1.7,3,False,nature;photography;shopping,autumn,flight,homestay
+T1066,18,F,student,Adventure Seeker,47317.91383596266,112.0,8.0,6.0,2,False,adventure;nature;nightlife;food;photography,spring,train,apartment
+T1067,52,M,employed,Leisure & Relaxation,5044.0,190.0,7.0,2.3,3,False,nightlife;shopping;relaxation;food,autumn,flight,hotel
+T1068,33,F,self-employed,Adventure Seeker,2848.0,148.0,2.0,3.0,1,False,nature;food,winter,car,apartment
+T1069,18,M,student,Adventure Seeker,5588.0,96.0,7.0,4.9,2,False,photography;wildlife;adventure;nature;culture,spring,flight,hotel
+T1070,27,M,employed,Adventure Seeker,4279.0,110.0,6.0,5.2,1,False,adventure;photography;culture;nightlife,spring,flight,hotel
+T1071,21,F,employed,Budget Backpacker,1766.0,60.0,14.0,9.7,2,False,adventure;food;nightlife;nature;shopping,winter,bus,hostel
+T1072,31,M,unemployed,Family Vacationer,6923.0,227.0,10.0,1.9,4,True,food;photography;relaxation;adventure,summer,car,hotel
+T1073,36,M,employed,Leisure & Relaxation,5878.0,96.0,11.0,3.7,3,True,nature;photography;relaxation;nightlife;adventure,winter,flight,resort
+T1074,39,M,employed,Family Vacationer,8260.0,222.0,10.0,2.7,3,True,relaxation;history;wildlife;food;adventure,summer,car,hotel
+T1075,37,F,employed,Family Vacationer,3199.0,302.0,7.0,1.7,3,True,wildlife;adventure;shopping;relaxation,summer,car,hotel
+T1076,18,M,self-employed,Budget Backpacker,2063.0,53.0,17.0,8.6,3,False,adventure;food;nightlife,winter,flight,hostel
+T1077,48,M,employed,Leisure & Relaxation,,223.0,10.0,3.6,2,False,nature;relaxation;food,summer,train,apartment
+T1078,32,F,employed,Adventure Seeker,5375.0,,7.0,3.3,2,False,nature;nightlife,winter,flight,homestay
+T1079,25,F,unemployed,Budget Backpacker,2025.0,68.0,6.0,8.6,1,False,wildlife;nightlife;adventure;relaxation,winter,car,homestay
+T1080,48,F,employed,Family Vacationer,5712.0,196.0,6.0,1.6,4,True,food;nature;adventure,autumn,flight,apartment
+T1081,51,F,unemployed,Cultural Explorer,7913.0,128.0,7.0,2.9,2,False,culture;nature;food;history;photography,autumn,train,hotel
+T1082,55,F,employed,Cultural Explorer,6173.0,107.0,7.0,3.9,2,False,photography;culture;history;food,summer,car,hotel
+T1083,33,F,employed,Cultural Explorer,5169.0,115.0,7.0,1.9,1,False,shopping;food;history;culture;photography,autumn,flight,hotel
+T1084,46,F,employed,Cultural Explorer,5698.0,60.0,14.0,1.4,1,False,culture;photography;adventure;food,autumn,flight,resort
+T1085,22,F,student,Budget Backpacker,3438.0,52.0,16.0,6.2,2,False,adventure;nightlife;relaxation;culture,summer,train,hostel
+T1086,57,M,employed,Leisure & Relaxation,6986.0,176.0,6.0,2.3,3,True,history;wildlife;relaxation;photography;food;culture,summer,flight,resort
+T1087,22,F,student,Budget Backpacker,1667.0,58.0,19.0,5.8,2,False,culture;relaxation;adventure;photography,winter,train,hostel
+T1088,23,F,employed,Adventure Seeker,6045.0,177.0,9.0,4.7,2,False,wildlife;nature;photography;adventure,winter,car,homestay
+T1089,29,male,unemployed,Adventure Seeker,7861.0,204.0,4.0,3.3,2,False,adventure;photography,winter,car,homestay
+T1090,21,M,student,Budget Backpacker,2104.0,71.0,15.0,6.2,2,False,photography;nightlife;nature;culture;relaxation,spring,flight,hotel
+T1091,27,M,self-employed,Adventure Seeker,4966.0,139.0,3.0,3.8,2,False,adventure;photography;relaxation;food,winter,flight,hostel
+T1092,36,M,self-employed,Family Vacationer,7605.0,157.0,5.0,2.1,4,True,wildlife;history;relaxation;nature,autumn,car,resort
+T1093,44,male,unemployed,Family Vacationer,9435.0,179.0,6.0,2.5,6,True,wildlife;relaxation;nature,spring,car,resort
+T1094,48,M,self-employed,Family Vacationer,6946.0,159.0,8.0,2.2,3,False,nature;wildlife;food;relaxation;adventure,summer,train,resort
+T1095,25,F,self-employed,Cultural Explorer,4623.0,107.0,10.0,2.7,2,False,food;history;culture;photography;shopping,summer,car,hotel
+T1096,36,M,employed,Adventure Seeker,6452.0,150.0,8.0,2.0,3,False,culture;adventure;food,winter,car,hostel
+T1097,25,M,employed,Budget Backpacker,2908.0,77.0,10.0,3.0,2,False,photography;adventure;nature;food;nightlife,summer,flight,homestay
+T1098,55,F,self-employed,Leisure & Relaxation,4520.0,186.0,5.0,1.8,3,False,photography;relaxation;culture;shopping,autumn,flight,resort
+T1099,51,M,employed,Leisure & Relaxation,6682.0,231.0,8.0,3.0,2,False,culture;adventure;nightlife,autumn,flight,homestay
+T1100,41,F,unemployed,Family Vacationer,5371.0,190.0,8.0,1.8,4,True,nature;relaxation;food;adventure,winter,flight,hotel
+T1101,27,F,employed,Adventure Seeker,2531.0,217.0,8.0,5.6,2,False,nightlife;nature;adventure,summer,bus,homestay
+T1102,47,M,employed,Cultural Explorer,7194.0,113.0,6.0,2.7,1,False,history;photography;shopping;nature,summer,train,apartment
+T1103,39, male,employed,Leisure & Relaxation,5434.0,174.0,17.0,2.2,1,False,culture;relaxation;nature;nightlife;food,winter,car,homestay
+T1104,43,F ,employed,Family Vacationer,4829.0,197.0,8.0,1.5,4,True,relaxation;food;wildlife;nature,autumn,car,resort
+T1105,31,M,employed,Adventure Seeker,2822.0,175.0,7.0,5.0,2,False,food;photography;nightlife;wildlife,winter,car,homestay
+T1106,18,F,student,Budget Backpacker,2115.0,47.0,7.0,5.7,1,False,adventure;food;nightlife;photography,summer,bus,hostel
+T1107,30,FEMALE ,employed,Adventure Seeker,3996.0,97.0,4.0,3.8,1,False,wildlife;adventure;nature;nightlife;food;relaxation,summer,flight,resort
+T1108,43,M,employed,Cultural Explorer,5846.0,187.0,8.0,3.7,2,False,adventure;shopping;food,winter,flight,hotel
+T1109,19,F ,student,Leisure & Relaxation,4709.0,226.0,6.0,4.4,4,False,culture;food;shopping;photography;relaxation,winter,car,hotel
+T1110,21,F,employed,Adventure Seeker,5149.0,130.0,6.0,3.9,1,False,food;nightlife,winter,train,apartment
+T1111,38,M,employed,Adventure Seeker,3116.0,77.0,5.0,2.3,2,False,photography;nature;adventure;nightlife;wildlife;food,summer,car,resort
+T1112,21,F,self-employed,Adventure Seeker,3107.0,116.0,8.0,3.7,1,False,wildlife;culture;photography,winter,flight,hotel
+T1113,34,F,self-employed,Family Vacationer,7733.0,216.0,6.0,0.5,4,True,nature;relaxation;adventure;culture,summer,flight,hotel
+T1114,44,M,employed,Leisure & Relaxation,5349.0,109.0,12.0,3.0,3,True,culture;food;adventure;nature;photography;relaxation,spring,flight,resort
+T1115,28,F,unemployed,Adventure Seeker,4901.0,143.0,5.0,5.1,2,False,adventure;culture;nightlife;nature;photography;wildlife,,flight,homestay
+T1116,43,F,employed,Leisure & Relaxation,6790.0,216.0,10.0,1.6,3,False,food;relaxation;adventure,summer,flight,hotel
+T1117,20,F,student,Budget Backpacker,1300.0,54.0,17.0,5.1,1,False,history;food;nature;adventure,spring,flight,apartment
+T1118,41,F,employed,Cultural Explorer,4418.0,156.0,12.0,4.5,4,False,history;nature;food,summer,train,hotel
+T1119,21,M,student,Budget Backpacker,,72.0,,4.9,2,False,culture;nature;adventure;nightlife,spring,train,hostel
+T1120,24,M,unemployed,Budget Backpacker,1918.0,91.0,15.0,2.3,3,False,nature;nightlife;photography;shopping;culture;food,spring,bus,hostel
+T1121,28,F,employed,Budget Backpacker,2279.0,66.0,13.0,5.7,1,False,food;nightlife;relaxation;adventure,summer,car,homestay
+T1122,27,F,unemployed,Adventure Seeker,5973.0,163.0,3.0,0.5,2,False,adventure;nature;photography;nightlife;relaxation,winter,car,homestay
+T1123,18,M,employed,Cultural Explorer,3007.0,98.0,8.0,3.9,2,False,nature;food;history,spring,car,apartment
+T1124,29,M,employed,Family Vacationer,6625.0,167.0,6.0,1.2,4,True,wildlife;food,autumn,car,hotel
+T1125,28,M,employed,Budget Backpacker,1461.0,63.0,13.0,4.9,2,False,shopping;relaxation;adventure,summer,train,hostel
+T1126,42,F,employed,Leisure & Relaxation,6202.0,166.0,13.0,2.2,2,False,nightlife;wildlife;photography;relaxation,summer,car,resort
+T1127,20,M,employed,Adventure Seeker,4258.0,177.0,5.0,2.9,3,False,nature;adventure;wildlife;food;nightlife,summer,flight,apartment
+T1128,22,F,student,Budget Backpacker,1910.0,55.0,11.0,3.7,1,False,relaxation;food;nightlife;shopping,winter,bus,hotel
+T1129,49,F,unemployed,Family Vacationer,8978.0,168.0,4.0,3.5,4,False,adventure;nature;photography;wildlife;food,spring,car,resort
+T1130,32,FEMALE ,employed,Adventure Seeker,2188.0,197.0,5.0,4.5,2,False,wildlife;nightlife;nature;food;adventure,autumn,flight,resort
+T1131,28,FEMALE ,self-employed,Cultural Explorer,4535.0,123.0,7.0,1.1,2,False,history;food;photography;nature,autumn,flight,hotel
+T1132,35,M,self-employed,Adventure Seeker,,139.0,6.0,4.0,2,False,nature;adventure;nightlife,spring,flight,homestay
+T1133,37,F,employed,Cultural Explorer,5524.0,160.0,7.0,2.0,1,False,culture;photography;history;food,spring,,hotel
+T1134,37,F,employed,Cultural Explorer,7093.0,173.0,2.0,3.2,1,False,culture;relaxation;food;nature;photography,winter,flight,hotel
+T1135,50,M,self-employed,Cultural Explorer,5725.0,175.0,2.0,2.2,3,False,nature;food;culture,spring,flight,homestay
+T1136,32,F,unemployed,Family Vacationer,7836.0,148.0,5.0,1.7,3,True,adventure;food;nature,autumn,flight,apartment
+T1137,48,M,employed,Cultural Explorer,5166.0,135.0,8.0,1.1,2,False,culture;shopping;history;food,spring,car,hotel
+T1138,29,M,employed,Budget Backpacker,2573.0,66.0,10.0,3.1,1,False,history;shopping;adventure,autumn,flight,hostel
+T1139,22,M,employed,Budget Backpacker,1614.0,64.0,16.0,5.3,1,False,food;nightlife;adventure;photography,autumn,flight,hotel
+T1140,43,M,self-employed,Leisure & Relaxation,5061.0,178.0,11.0,3.1,2,False,relaxation;photography;nature;food;culture,autumn,car,hotel
+T1141,26,M,employed,Adventure Seeker,4102.0,163.0,4.0,3.2,3,True,wildlife;adventure;food;photography,winter,car,apartment
+T1142,22,M,student,Adventure Seeker,4553.0,124.0,8.0,5.9,2,False,adventure;culture;wildlife;relaxation,spring,flight,hostel
+T1143,43,M,employed,Family Vacationer,7744.0,200.0,3.0,2.3,5,True,nature;adventure;photography;relaxation;wildlife,autumn,flight,apartment
+T1144,36,F,employed,Family Vacationer,8554.0,252.0,9.0,3.0,3,True,nature;relaxation;adventure;history,winter,car,hotel
+T1145,21,M,student,Adventure Seeker,1760.0,141.0,2.0,2.6,1,False,adventure;relaxation;nightlife;wildlife,summer,car,apartment
+T1146,23,F,student,Budget Backpacker,2073.0,78.0,9.0,6.6,1,False,adventure;relaxation;food;photography;culture,summer,flight,apartment
+T1147,26,F,employed,Budget Backpacker,2270.0,51.0,4.0,5.1,1,False,nightlife;culture;relaxation;nature;adventure,autumn,bus,homestay
+T1148,20,M,student,Budget Backpacker,,72.0,13.0,4.5,1,False,nightlife;food;adventure;nature,spring,flight,hotel
+T1149,21,F,student,Budget Backpacker,2084.0,61.0,16.0,4.7,2,False,photography;food;nightlife;nature,winter,flight,apartment
+T1150,18,M,student,Budget Backpacker,3239.0,45.0,16.0,5.0,1,False,adventure;nightlife;food;culture;photography,winter,train,hostel
+T1151,38,M,employed,Leisure & Relaxation,6727.0,180.0,12.0,2.8,3,True,culture;nature;relaxation;history;shopping,winter,car,resort
+T1152,30,F,self-employed,Adventure Seeker,4555.0,141.0,4.0,5.3,3,False,photography;food;adventure,winter,flight,hotel
+T1153,41,M,employed,Cultural Explorer,4507.0,181.0,10.0,2.7,3,True,photography;food;history;culture;nightlife,autumn,car,homestay
+T1154,18,M,student,Budget Backpacker,2386.0,50.0,11.0,6.6,1,False,food;nightlife;adventure;photography,autumn,train,hostel
+T1155,23,F,student,Budget Backpacker,1147.0,39.0,10.0,6.9,2,False,shopping;nature;nightlife,summer,train,hostel
+T1156,28,F,self-employed,Budget Backpacker,3388.0,50.0,21.0,4.4,1,False,adventure;culture;food;nightlife;photography,winter,car,homestay
+T1157,24,F,employed,Budget Backpacker,2448.0,50.0,16.0,0.8,1,False,food;shopping;relaxation;adventure,summer,train,hostel
+T1158,47,F,self-employed,Family Vacationer,4876.0,226.0,9.0,2.7,3,True,nature;wildlife;relaxation;culture,summer,flight,apartment
+T1159,43,F,employed,Leisure & Relaxation,7032.0,37.0,8.0,2.0,4,True,shopping;relaxation;nature;food,,flight,hotel
+T1160,28,M,employed,Adventure Seeker,,134.0,4.0,4.2,2,False,food;nature;wildlife;photography;adventure,autumn,car,hotel
+T1161,39,F,employed,Family Vacationer,5767.0,129.0,6.0,2.0,4,True,relaxation;nature;wildlife;adventure;food,winter,flight,apartment
+T1162,31,M,employed,Adventure Seeker,4259.0,160.0,7.0,3.1,2,False,photography;nature;adventure,winter,flight,hostel
+T1163,22,F,employed,Budget Backpacker,2842.0,,15.0,2.2,2,False,food;relaxation;photography;nature,winter,flight,resort
+T1164,30,M,self-employed,Adventure Seeker,5472.0,167.0,,3.3,2,False,adventure;nightlife;nature,winter,flight,apartment
+T1165,24,F,employed,Budget Backpacker,2367.0,41.0,2.0,4.3,2,False,adventure;food;nature,summer,bus,homestay
+T1166,32,M,unemployed,Adventure Seeker,3974.0,171.0,9.0,4.9,2,False,photography;nightlife;nature;food;adventure;culture,summer,train,homestay
+T1167,42,M,self-employed,Cultural Explorer,7242.0,173.0,10.0,4.7,2,False,culture;history,spring,car,apartment
+T1168,23,M,unemployed,Adventure Seeker,6291.0,132.0,7.0,3.1,2,False,nightlife;adventure;wildlife;nature;food,autumn,car,hostel
+T1169,22,F,student,Budget Backpacker,2854.0,79.0,10.0,6.7,3,True,adventure;nightlife;photography,summer,train,hostel
+T1170,18,M,student,Budget Backpacker,1744.0,,11.0,3.4,2,False,nature;culture,autumn,bus,hostel
+T1171,20,F,student,Budget Backpacker,2259.0,69.0,13.0,4.5,1,False,culture;adventure;relaxation;food,summer,train,homestay
+T1172,24,F ,employed,Budget Backpacker,2398.0,45.0,4.0,5.7,1,False,food;photography;adventure,summer,train,homestay
+T1173,46,M,employed,Leisure & Relaxation,2929.0,124.0,7.0,2.6,4,False,nightlife;food;culture,autumn,flight,apartment
+T1174,34,F,employed,Leisure & Relaxation,4774.0,199.0,5.0,2.1,3,True,food;adventure;relaxation,spring,flight,resort
+T1175,29,F,employed,Adventure Seeker,5646.0,120.0,4.0,0.8,4,False,adventure;nightlife;nature;photography;food,autumn,flight,hostel
+T1176,37,M,employed,Family Vacationer,9254.0,217.0,13.0,1.6,5,True,wildlife;relaxation;culture;nature;adventure,autumn,flight,hotel
+T1177,44,F,employed,Family Vacationer,8406.0,,6.0,1.6,5,True,food;adventure;wildlife,summer,car,resort
+T1178,18,F,employed,Cultural Explorer,4106.0,179.0,6.0,2.1,1,False,history;food;culture;relaxation;photography;adventure,spring,flight,hotel
+T1179,27,F ,employed,Budget Backpacker,1451.0,41.0,6.0,10.5,3,False,food;adventure;nature;shopping,spring,car,apartment
+T1180,41,F,employed,Family Vacationer,5479.0,77.0,8.0,1.2,3,True,relaxation;culture;wildlife,spring,car,hotel
+T1181,28,M,employed,Budget Backpacker,2986.0,73.0,15.0,1.8,1,False,nature;shopping;adventure;food;culture,summer,bus,homestay
+T1182,41,M,employed,Family Vacationer,5993.0,264.0,4.0,1.8,3,True,food;nature;wildlife;culture,winter,car,hotel
+T1183,24,F,self-employed,Budget Backpacker,2827.0,63.0,20.0,5.0,1,False,adventure;nightlife,summer,train,hostel
+T1184,32,F ,employed,Adventure Seeker,5169.0,171.0,5.0,2.1,1,False,adventure;wildlife;food;nightlife,autumn,car,homestay
+T1185,25,F,employed,Adventure Seeker,5931.0,155.0,4.0,3.7,1,False,adventure;photography;nature,summer,flight,apartment
+T1186,26,F,employed,Adventure Seeker,5251.0,168.0,5.0,2.8,1,False,adventure;wildlife;shopping;food,spring,car,hostel
+T1187,24,M,employed,Adventure Seeker,4915.0,132.0,8.0,4.6,3,True,photography;nightlife;food;wildlife,winter,car,hostel
+T1188,39,F,employed,Cultural Explorer,5663.0,138.0,6.0,2.2,3,True,culture;food;photography;history,autumn,car,apartment
+T1189,21,M,student,Budget Backpacker,976.0,54.0,5.0,4.8,2,False,nightlife;history;culture;food,,bus,hostel
+T1190,24,F,employed,Budget Backpacker,2885.0,49.0,18.0,4.6,3,False,nature;nightlife;food;shopping,summer,,hotel
+T1191,46,F,employed,Cultural Explorer,4202.0,150.0,7.0,2.3,1,False,culture;nature;history;food,spring,bus,resort
+T1192,29,M,unemployed,Adventure Seeker,4891.0,172.0,9.0,4.7,1,False,nature;wildlife;adventure;nightlife,summer,car,resort
+T1193,37,F,employed,Cultural Explorer,3717.0,156.0,11.0,2.5,1,False,food;culture;photography;adventure;history,spring,car,apartment
+T1194,26,M,self-employed,Budget Backpacker,,57.0,6.0,3.7,2,False,food;nightlife;nature;photography,summer,flight,homestay
+T1195,33,M,employed,Adventure Seeker,5518.0,115.0,7.0,3.1,1,False,food;wildlife;nature;adventure,summer,flight,homestay
+T1196,22,F,student,Cultural Explorer,5790.0,160.0,9.0,1.6,1,False,history;nightlife;culture;food;shopping,summer,flight,homestay
+T1197,29,F,employed,Adventure Seeker,3028.0,181.0,2.0,5.5,2,False,wildlife;adventure,summer,flight,homestay
+T1198,32,F,employed,Family Vacationer,5596.0,194.0,9.0,0.8,3,True,wildlife;relaxation;food,summer,car,resort
+T1199,44,M,self-employed,Cultural Explorer,4805.0,167.0,6.0,4.2,1,False,history;culture;food,spring,flight,hotel
+T1200,36,F,employed,Adventure Seeker,5543.0,,6.0,6.5,3,True,shopping;wildlife;adventure;nature,summer,flight,hostel

@@ -1,0 +1,32 @@
+=== Travelers describe ===
+       traveler_id          age gender occupation     traveler_type  monthly_income  budget_per_day  trip_duration_days  trips_per_year   group_size  with_children             interests preferred_season transport_pref accommodation_pref age_group
+count         1200  1200.000000   1200       1200              1200     1200.000000     1200.000000         1200.000000     1200.000000  1200.000000    1200.000000                  1200             1200           1200               1200      1200
+unique        1200          NaN      2          5                 5             NaN             NaN                 NaN             NaN          NaN            NaN                  1054                5              5                  5         5
+top          T0001          NaN      F   employed  Adventure Seeker             NaN             NaN                 NaN             NaN          NaN            NaN  [nature, relaxation]           summer         flight              hotel     25-34
+freq             1          NaN    601        714               275             NaN             NaN                 NaN             NaN          NaN            NaN                     5              406            484                348       375
+mean           NaN    33.617500    NaN        NaN               NaN     5056.414146      145.448750            8.241667        3.181083     2.347500       0.276667                   NaN              NaN            NaN                NaN       NaN
+std            NaN    10.420333    NaN        NaN               NaN     2299.372288       60.030584            3.622273        1.717685     1.065061       0.447537                   NaN              NaN            NaN                NaN       NaN
+min            NaN    18.000000    NaN        NaN               NaN      989.510000       25.000000            2.000000        0.500000     1.000000       0.000000                   NaN              NaN            NaN                NaN       NaN
+25%            NaN    25.000000    NaN        NaN               NaN     3407.750000      105.000000            6.000000        2.000000     2.000000       0.000000                   NaN              NaN            NaN                NaN       NaN
+50%            NaN    33.000000    NaN        NaN               NaN     5011.500000      149.000000            8.000000        3.000000     2.000000       0.000000                   NaN              NaN            NaN                NaN       NaN
+75%            NaN    41.000000    NaN        NaN               NaN     6449.750000      184.250000           10.000000        4.000000     3.000000       1.000000                   NaN              NaN            NaN                NaN       NaN
+max            NaN    72.000000    NaN        NaN               NaN    14700.571251      346.000000           21.000000       10.500000     6.000000       1.000000                   NaN              NaN            NaN                NaN       NaN
+
+=== Traveler type counts ===
+traveler_type
+Adventure Seeker        275
+Leisure & Relaxation    245
+Cultural Explorer       233
+Family Vacationer       228
+Budget Backpacker       219
+
+=== Ratings describe ===
+             rating
+count  14539.000000
+mean       3.562418
+std        0.715957
+min        1.000000
+25%        3.000000
+50%        4.000000
+75%        4.000000
+max        5.000000

@@ -1,0 +1,3 @@
+cluster,size,mean_age,mean_budget,mean_duration,mean_trips_per_year,pct_with_children,dominant_type,transport_pref,accommodation_pref,preferred_season,top_interests
+0,544,26.17,104.29,8.81,4.21,0.04,Adventure Seeker,flight,hostel,summer,"adventure, food, nightlife"
+1,656,39.79,179.58,7.77,2.33,0.47,Leisure & Relaxation,flight,hotel,summer,"nature, food, relaxation"
